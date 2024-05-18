@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9DA273-1AFD-487A-AF9F-02FEA22CC9FF}|MechanicApp.UI\\MechanicApp.UI.csproj|c:\\users\\antosz\\desktop\\mechanicappsolution\\mechanicapp.ui\\pages\\clintslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF9DA273-1AFD-487A-AF9F-02FEA22CC9FF}|MechanicApp.UI\\MechanicApp.UI.csproj|solutionrelative:mechanicapp.ui\\pages\\clintslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9DA273-1AFD-487A-AF9F-02FEA22CC9FF}|MechanicApp.UI\\MechanicApp.UI.csproj|C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\mechanicapp.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF9DA273-1AFD-487A-AF9F-02FEA22CC9FF}|MechanicApp.UI\\MechanicApp.UI.csproj|solutionrelative:mechanicapp.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9DA273-1AFD-487A-AF9F-02FEA22CC9FF}|MechanicApp.UI\\MechanicApp.UI.csproj|C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\mechanicapp.ui\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF9DA273-1AFD-487A-AF9F-02FEA22CC9FF}|MechanicApp.UI\\MechanicApp.UI.csproj|solutionrelative:mechanicapp.ui\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9DA273-1AFD-487A-AF9F-02FEA22CC9FF}|MechanicApp.UI\\MechanicApp.UI.csproj|C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\mechanicapp.ui\\services\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF9DA273-1AFD-487A-AF9F-02FEA22CC9FF}|MechanicApp.UI\\MechanicApp.UI.csproj|solutionrelative:mechanicapp.ui\\services\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9DA273-1AFD-487A-AF9F-02FEA22CC9FF}|MechanicApp.UI\\MechanicApp.UI.csproj|C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\mechanicapp.ui\\services\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF9DA273-1AFD-487A-AF9F-02FEA22CC9FF}|MechanicApp.UI\\MechanicApp.UI.csproj|solutionrelative:mechanicapp.ui\\services\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9DA273-1AFD-487A-AF9F-02FEA22CC9FF}|MechanicApp.UI\\MechanicApp.UI.csproj|C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\mechanicapp.ui\\services\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF9DA273-1AFD-487A-AF9F-02FEA22CC9FF}|MechanicApp.UI\\MechanicApp.UI.csproj|solutionrelative:mechanicapp.ui\\services\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9DA273-1AFD-487A-AF9F-02FEA22CC9FF}|MechanicApp.UI\\MechanicApp.UI.csproj|C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\mechanicapp.ui\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF9DA273-1AFD-487A-AF9F-02FEA22CC9FF}|MechanicApp.UI\\MechanicApp.UI.csproj|solutionrelative:mechanicapp.ui\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9DA273-1AFD-487A-AF9F-02FEA22CC9FF}|MechanicApp.UI\\MechanicApp.UI.csproj|C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\mechanicapp.ui\\pages\\jobsperclientlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF9DA273-1AFD-487A-AF9F-02FEA22CC9FF}|MechanicApp.UI\\MechanicApp.UI.csproj|solutionrelative:mechanicapp.ui\\pages\\jobsperclientlist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9DA273-1AFD-487A-AF9F-02FEA22CC9FF}|MechanicApp.UI\\MechanicApp.UI.csproj|C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\mechanicapp.ui\\pages\\jobslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF9DA273-1AFD-487A-AF9F-02FEA22CC9FF}|MechanicApp.UI\\MechanicApp.UI.csproj|solutionrelative:mechanicapp.ui\\pages\\jobslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9DA273-1AFD-487A-AF9F-02FEA22CC9FF}|MechanicApp.UI\\MechanicApp.UI.csproj|C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\mechanicapp.ui\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF9DA273-1AFD-487A-AF9F-02FEA22CC9FF}|MechanicApp.UI\\MechanicApp.UI.csproj|solutionrelative:mechanicapp.ui\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9DA273-1AFD-487A-AF9F-02FEA22CC9FF}|MechanicApp.UI\\MechanicApp.UI.csproj|C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\mechanicapp.ui\\mechanicapp.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EF9DA273-1AFD-487A-AF9F-02FEA22CC9FF}|MechanicApp.UI\\MechanicApp.UI.csproj|solutionrelative:mechanicapp.ui\\mechanicapp.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\_Imports.razor",
+              "RelativeDocumentMoniker": "MechanicApp.UI\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\_Imports.razor",
+              "RelativeToolTip": "MechanicApp.UI\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T13:03:43.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JobService.cs",
+              "DocumentMoniker": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\Services\\JobService.cs",
+              "RelativeDocumentMoniker": "MechanicApp.UI\\Services\\JobService.cs",
+              "ToolTip": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\Services\\JobService.cs",
+              "RelativeToolTip": "MechanicApp.UI\\Services\\JobService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T13:03:40.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IJobService.cs",
+              "DocumentMoniker": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\Services\\IJobService.cs",
+              "RelativeDocumentMoniker": "MechanicApp.UI\\Services\\IJobService.cs",
+              "ToolTip": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\Services\\IJobService.cs",
+              "RelativeToolTip": "MechanicApp.UI\\Services\\IJobService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T13:03:39.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IClientService.cs",
+              "DocumentMoniker": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\Services\\IClientService.cs",
+              "RelativeDocumentMoniker": "MechanicApp.UI\\Services\\IClientService.cs",
+              "ToolTip": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\Services\\IClientService.cs",
+              "RelativeToolTip": "MechanicApp.UI\\Services\\IClientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T13:03:36.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClintsList.razor",
+              "DocumentMoniker": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\Pages\\ClintsList.razor",
+              "RelativeDocumentMoniker": "MechanicApp.UI\\Pages\\ClintsList.razor",
+              "ToolTip": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\Pages\\ClintsList.razor",
+              "RelativeToolTip": "MechanicApp.UI\\Pages\\ClintsList.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T13:03:23.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\Program.cs",
+              "RelativeDocumentMoniker": "MechanicApp.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\Program.cs",
+              "RelativeToolTip": "MechanicApp.UI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T13:03:45.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\Services\\ClientService.cs",
+              "RelativeDocumentMoniker": "MechanicApp.UI\\Services\\ClientService.cs",
+              "ToolTip": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\Services\\ClientService.cs",
+              "RelativeToolTip": "MechanicApp.UI\\Services\\ClientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T13:03:33.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JobsPerClientList.razor",
+              "DocumentMoniker": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\Pages\\JobsPerClientList.razor",
+              "RelativeDocumentMoniker": "MechanicApp.UI\\Pages\\JobsPerClientList.razor",
+              "ToolTip": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\Pages\\JobsPerClientList.razor",
+              "RelativeToolTip": "MechanicApp.UI\\Pages\\JobsPerClientList.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T13:03:31.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JobsList.razor",
+              "DocumentMoniker": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\Pages\\JobsList.razor",
+              "RelativeDocumentMoniker": "MechanicApp.UI\\Pages\\JobsList.razor",
+              "ToolTip": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\Pages\\JobsList.razor",
+              "RelativeToolTip": "MechanicApp.UI\\Pages\\JobsList.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T13:03:28.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "MechanicApp.UI\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\Pages\\Home.razor",
+              "RelativeToolTip": "MechanicApp.UI\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T13:03:26.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MechanicApp.UI",
+              "DocumentMoniker": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\MechanicApp.UI.csproj",
+              "RelativeDocumentMoniker": "MechanicApp.UI\\MechanicApp.UI.csproj",
+              "ToolTip": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\MechanicApp.UI.csproj",
+              "RelativeToolTip": "MechanicApp.UI\\MechanicApp.UI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-18T13:03:19.15Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

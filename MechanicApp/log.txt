@@ -1,0 +1,159 @@
+2024-05-13 17:51:24.001 +02:00 [INF] Now listening on: http://localhost:5191
+2024-05-13 17:51:24.025 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-13 17:51:24.027 +02:00 [INF] Hosting environment: Development
+2024-05-13 17:51:24.028 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\csharp_nagyvallalti_ora\Beadando_Solution
+2024-05-13 17:51:25.834 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5191/swagger/index.html - null null
+2024-05-13 17:51:26.268 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5191/swagger/index.html - 200 null text/html;charset=utf-8 441.651ms
+2024-05-13 17:51:27.097 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5191/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-13 17:51:27.097 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5191/_vs/browserLink - null null
+2024-05-13 17:51:27.102 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5191/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 5.0704ms
+2024-05-13 17:51:27.152 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5191/_vs/browserLink - 200 null text/javascript; charset=UTF-8 54.7056ms
+2024-05-13 17:51:27.437 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5191/swagger/v1/swagger.json - null null
+2024-05-13 17:51:27.552 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5191/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 115.3362ms
+2024-05-13 23:02:54.658 +02:00 [INF] Now listening on: http://localhost:5191
+2024-05-13 23:02:54.679 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-13 23:02:54.681 +02:00 [INF] Hosting environment: Development
+2024-05-13 23:02:54.682 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\csharp_nagyvallalti_ora\Beadando_Solution
+2024-05-13 23:02:56.373 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5191/swagger/index.html - null null
+2024-05-13 23:02:56.810 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5191/swagger/index.html - 200 null text/html;charset=utf-8 443.0095ms
+2024-05-13 23:02:57.553 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5191/_vs/browserLink - null null
+2024-05-13 23:02:57.553 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5191/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-13 23:02:57.562 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5191/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 8.1403ms
+2024-05-13 23:02:57.618 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5191/_vs/browserLink - 200 null text/javascript; charset=UTF-8 64.9571ms
+2024-05-13 23:02:58.016 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5191/swagger/v1/swagger.json - null null
+2024-05-13 23:02:58.147 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5191/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 131.2488ms
+2024-05-13 23:07:51.490 +02:00 [INF] Now listening on: http://localhost:5191
+2024-05-13 23:07:51.508 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-13 23:07:51.510 +02:00 [INF] Hosting environment: Development
+2024-05-13 23:07:51.511 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\csharp_nagyvallalti_ora\Beadando_Solution
+2024-05-13 23:07:52.505 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5191/swagger/index.html - null null
+2024-05-13 23:07:52.852 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5191/swagger/index.html - 200 null text/html;charset=utf-8 349.7392ms
+2024-05-13 23:07:52.970 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5191/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-13 23:07:52.970 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5191/_vs/browserLink - null null
+2024-05-13 23:07:52.980 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5191/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 10.0291ms
+2024-05-13 23:07:53.049 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5191/_vs/browserLink - 200 null text/javascript; charset=UTF-8 79.2841ms
+2024-05-13 23:07:53.130 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5191/swagger/v1/swagger.json - null null
+2024-05-13 23:07:53.338 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5191/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 207.7082ms
+2024-05-13 23:32:29.845 +02:00 [INF] Now listening on: http://localhost:5191
+2024-05-13 23:32:29.866 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-13 23:32:29.868 +02:00 [INF] Hosting environment: Development
+2024-05-13 23:32:29.868 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\csharp_nagyvallalti_ora\Beadando_Solution
+2024-05-13 23:32:31.986 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5191/swagger/index.html - null null
+2024-05-13 23:32:32.388 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5191/swagger/index.html - 200 null text/html;charset=utf-8 409.168ms
+2024-05-13 23:32:33.175 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5191/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-13 23:32:33.182 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5191/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 6.8134ms
+2024-05-13 23:32:33.313 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5191/_vs/browserLink - null null
+2024-05-13 23:32:33.731 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5191/_vs/browserLink - 200 null text/javascript; charset=UTF-8 418.5415ms
+2024-05-13 23:32:33.903 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5191/swagger/v1/swagger.json - null null
+2024-05-13 23:32:34.200 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5191/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 296.7957ms
+2024-05-13 23:55:42.404 +02:00 [INF] Now listening on: http://localhost:5191
+2024-05-13 23:55:42.422 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-13 23:55:42.424 +02:00 [INF] Hosting environment: Development
+2024-05-13 23:55:42.425 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\csharp_nagyvallalti_ora\Beadando_Solution
+2024-05-13 23:55:42.676 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5191/swagger/index.html - null null
+2024-05-13 23:55:42.898 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5191/swagger/index.html - 200 null text/html;charset=utf-8 222.9466ms
+2024-05-13 23:55:42.920 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5191/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-13 23:55:42.926 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5191/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 5.1848ms
+2024-05-13 23:55:42.990 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5191/_vs/browserLink - null null
+2024-05-13 23:55:43.011 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5191/_vs/browserLink - 200 null text/javascript; charset=UTF-8 20.9002ms
+2024-05-13 23:55:43.096 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5191/swagger/v1/swagger.json - null null
+2024-05-13 23:55:43.195 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5191/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 98.9106ms
+2024-05-13 23:55:52.910 +02:00 [INF] Application is shutting down...
+2024-05-13 23:55:56.528 +02:00 [INF] Now listening on: http://localhost:5191
+2024-05-13 23:55:56.546 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-13 23:55:56.549 +02:00 [INF] Hosting environment: Development
+2024-05-13 23:55:56.550 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\csharp_nagyvallalti_ora\Beadando_Solution
+2024-05-13 23:55:58.005 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5191/swagger/index.html - null null
+2024-05-13 23:55:58.156 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5191/swagger/index.html - 200 null text/html;charset=utf-8 152.6842ms
+2024-05-13 23:55:58.184 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5191/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-13 23:55:58.189 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5191/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 4.7943ms
+2024-05-13 23:55:59.139 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5191/_vs/browserLink - null null
+2024-05-13 23:55:59.189 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5191/_vs/browserLink - 200 null text/javascript; charset=UTF-8 50.2561ms
+2024-05-13 23:55:59.443 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5191/swagger/v1/swagger.json - null null
+2024-05-13 23:55:59.648 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5191/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 205.1709ms
+2024-05-13 23:56:17.645 +02:00 [INF] Application is shutting down...
+2024-05-18 14:50:23.887 +02:00 [INF] Now listening on: http://localhost:5120
+2024-05-18 14:50:23.908 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-18 14:50:23.910 +02:00 [INF] Hosting environment: Development
+2024-05-18 14:50:23.911 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp
+2024-05-18 14:50:25.661 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/swagger - null null
+2024-05-18 14:50:25.901 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/swagger - 301 0 null 245.3949ms
+2024-05-18 14:50:25.906 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/swagger/index.html - null null
+2024-05-18 14:50:25.986 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/swagger/index.html - 200 null text/html;charset=utf-8 79.7083ms
+2024-05-18 14:50:26.749 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/swagger/swagger-ui-bundle.js - null null
+2024-05-18 14:50:26.749 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/swagger/swagger-ui.css - null null
+2024-05-18 14:50:26.751 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-18 14:50:26.751 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/swagger/swagger-ui-standalone-preset.js - null null
+2024-05-18 14:50:26.767 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/_vs/browserLink - null null
+2024-05-18 14:50:26.775 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/_framework/aspnetcore-browser-refresh.js - 200 13758 application/javascript; charset=utf-8 23.9139ms
+2024-05-18 14:50:26.816 +02:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-05-18 14:50:26.816 +02:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-05-18 14:50:26.816 +02:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-05-18 14:50:26.819 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/swagger/swagger-ui.css - 200 143943 text/css 70.5396ms
+2024-05-18 14:50:26.819 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/swagger/swagger-ui-standalone-preset.js - 200 339486 text/javascript 68.1089ms
+2024-05-18 14:50:26.820 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/swagger/swagger-ui-bundle.js - 200 1096145 text/javascript 71.2523ms
+2024-05-18 14:50:26.888 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/_vs/browserLink - 200 null text/javascript; charset=UTF-8 121.3389ms
+2024-05-18 14:50:27.106 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/swagger/favicon-32x32.png - null null
+2024-05-18 14:50:27.109 +02:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2024-05-18 14:50:27.110 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/swagger/favicon-32x32.png - 200 628 image/png 3.9604ms
+2024-05-18 14:50:27.338 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/swagger/v1/swagger.json - null null
+2024-05-18 14:50:27.486 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 148.4712ms
+2024-05-18 15:02:36.777 +02:00 [INF] Now listening on: http://localhost:5120
+2024-05-18 15:02:36.798 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-18 15:02:36.799 +02:00 [INF] Hosting environment: Development
+2024-05-18 15:02:36.801 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp
+2024-05-18 15:02:38.182 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/swagger/index.html - null null
+2024-05-18 15:02:38.545 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/swagger/index.html - 200 null text/html;charset=utf-8 368.3352ms
+2024-05-18 15:02:38.641 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/_vs/browserLink - null null
+2024-05-18 15:02:38.641 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-18 15:02:38.649 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/_framework/aspnetcore-browser-refresh.js - 200 13758 application/javascript; charset=utf-8 7.6221ms
+2024-05-18 15:02:38.680 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/_vs/browserLink - 200 null text/javascript; charset=UTF-8 39.5026ms
+2024-05-18 15:02:38.825 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/swagger/v1/swagger.json - null null
+2024-05-18 15:02:39.024 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 198.4457ms
+2024-05-18 15:02:56.358 +02:00 [INF] Now listening on: http://localhost:5120
+2024-05-18 15:02:56.375 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-18 15:02:56.376 +02:00 [INF] Hosting environment: Development
+2024-05-18 15:02:56.377 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp
+2024-05-18 15:02:57.294 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/swagger/index.html - null null
+2024-05-18 15:02:57.495 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/swagger/index.html - 200 null text/html;charset=utf-8 202.6548ms
+2024-05-18 15:02:57.525 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-18 15:02:57.531 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/_framework/aspnetcore-browser-refresh.js - 200 13758 application/javascript; charset=utf-8 5.356ms
+2024-05-18 15:02:57.607 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/_vs/browserLink - null null
+2024-05-18 15:02:57.633 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/_vs/browserLink - 200 null text/javascript; charset=UTF-8 26.2999ms
+2024-05-18 15:02:57.707 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/swagger/v1/swagger.json - null null
+2024-05-18 15:02:57.842 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 134.3619ms
+2024-05-18 15:04:36.738 +02:00 [INF] Application is shutting down...
+2024-05-18 15:04:40.881 +02:00 [INF] Now listening on: http://localhost:5120
+2024-05-18 15:04:40.899 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-18 15:04:40.901 +02:00 [INF] Hosting environment: Development
+2024-05-18 15:04:40.902 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp
+2024-05-18 15:05:06.396 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/swagger/index.html - null null
+2024-05-18 15:05:06.629 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/swagger/index.html - 200 null text/html;charset=utf-8 235.0963ms
+2024-05-18 15:05:06.734 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-18 15:05:06.734 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/_vs/browserLink - null null
+2024-05-18 15:05:06.738 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/_framework/aspnetcore-browser-refresh.js - 200 13758 application/javascript; charset=utf-8 4.8763ms
+2024-05-18 15:05:06.770 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/_vs/browserLink - 200 null text/javascript; charset=UTF-8 36.1646ms
+2024-05-18 15:05:06.959 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/swagger/v1/swagger.json - null null
+2024-05-18 15:05:07.123 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 163.352ms
+2024-05-18 15:06:28.081 +02:00 [INF] Application is shutting down...
+2024-05-18 19:59:53.915 +02:00 [INF] Now listening on: http://localhost:5120
+2024-05-18 19:59:53.935 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-18 19:59:53.936 +02:00 [INF] Hosting environment: Development
+2024-05-18 19:59:53.937 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp
+2024-05-18 19:59:56.005 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/swagger/index.html - null null
+2024-05-18 19:59:56.439 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/swagger/index.html - 200 null text/html;charset=utf-8 436.4208ms
+2024-05-18 19:59:57.770 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-18 19:59:57.771 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/_vs/browserLink - null null
+2024-05-18 19:59:57.777 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/_framework/aspnetcore-browser-refresh.js - 200 13758 application/javascript; charset=utf-8 6.4467ms
+2024-05-18 19:59:57.916 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/_vs/browserLink - 200 null text/javascript; charset=UTF-8 144.7309ms
+2024-05-18 19:59:58.152 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/swagger/v1/swagger.json - null null
+2024-05-18 19:59:58.478 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 325.7157ms
+2024-05-18 20:50:58.473 +02:00 [INF] Now listening on: http://localhost:5120
+2024-05-18 20:50:58.492 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-18 20:50:58.494 +02:00 [INF] Hosting environment: Development
+2024-05-18 20:50:58.495 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp
+2024-05-18 20:50:58.946 +02:00 [INF] Now listening on: http://localhost:5120
+2024-05-18 20:50:58.969 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-18 20:50:58.971 +02:00 [INF] Hosting environment: Development
+2024-05-18 20:50:58.972 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp
+2024-05-18 21:47:16.680 +02:00 [INF] Application is shutting down...

@@ -1,0 +1,6 @@
+@MechanicApp_HostAddress = http://localhost:5120
+
+GET {{MechanicApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
