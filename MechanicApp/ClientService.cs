@@ -35,7 +35,7 @@ namespace MechanicApp
         public async Task<Client> Get(Guid id)
         {
             var client = await _context.Clients.FindAsync(id);
-            _logger.LogInformation("Client retrieved: {@Client}", client);
+            _logger.LogInformation("Client retrieved: {@client}", client);
             return client;
         }
 

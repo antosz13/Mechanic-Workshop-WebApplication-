@@ -138,3 +138,4 @@ C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp\obj\Release\net8.0\refin
 C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp\obj\Release\net8.0\MechanicApp.pdb
 C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp\obj\Release\net8.0\MechanicApp.genruntimeconfig.cache
 C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp\obj\Release\net8.0\ref\MechanicApp.dll
+C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp\obj\Release\net8.0\MechanicApp.sourcelink.json

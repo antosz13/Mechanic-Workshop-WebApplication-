@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MechanicApp.UI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c49bc4e026d70a5d238fa1f5a925c1a5a2e4ea9d")]
 [assembly: System.Reflection.AssemblyProductAttribute("MechanicApp.UI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MechanicApp.UI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

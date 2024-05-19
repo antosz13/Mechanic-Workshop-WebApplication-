@@ -1,7 +1,45 @@
 ﻿@page "/client/list"
 @using MechanicApp.UI.Services
+@using MechanicApp.Shared
+@inject IClientService ClientService
 
-<h3>ClintsList</h3>
+<h3>ClientsList</h3>
 
-@code{
+@if (Clients is null)
+{
+    <p>Loading..</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+        <tr>
+            <th>Name</th>
+            <th>Address</th>
+            <th>Email</th>
+        </tr>
+        </thead>
+        <tbody>
+
+        @foreach (var client in Clients)
+        {
+            <tr>
+                <td>1</td>
+                <td>@client.Name</td>
+                <td>@client.Address</td>
+                <td>@client.Email</td>
+                <td><a href="/client/@client.ClientId" class="btn btn-primary">Details</a></td>
+            </tr>
+        }
+        </tbody>
+    </table>
+}
+
+@code {
+    private IEnumerable<Client>? Clients { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        Clients = await ClientService.GetAllClientAsync();
+    }
 }

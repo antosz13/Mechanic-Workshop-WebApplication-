@@ -26,6 +26,18 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Antosz/Desktop/MechanicAppSolution/MechanicApp.UI/Components/ClientForm.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDbGllbnRGb3JtLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Antosz/Desktop/MechanicAppSolution/MechanicApp.UI/Pages/ClientAdd.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50QWRkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Antosz/Desktop/MechanicAppSolution/MechanicApp.UI/Pages/ClientDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50RGV0YWlscy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Antosz/Desktop/MechanicAppSolution/MechanicApp.UI/Pages/ClintsList.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpbnRzTGlzdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 

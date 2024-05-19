@@ -13,7 +13,5 @@ namespace MechanicApp.UI.Services
         Task<IEnumerable<Client>> GetAllClientAsync();
 
         Task UpdateClientAsync(Guid id, Client person);
-
-        //Task<List<Job>> GetJobsOfPerson(Guid personId);
     }
 }

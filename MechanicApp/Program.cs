@@ -24,6 +24,7 @@ namespace MechanicApp
             builder.Services.AddDbContext<AppContext>(options =>
             {
                 options.UseSqlite(builder.Configuration.GetConnectionString("SQLite"));
+                options.UseLazyLoadingProxies();
             }, ServiceLifetime.Singleton);
 
             builder.Services.AddSingleton<IClientService, ClientService>();
@@ -38,6 +39,8 @@ namespace MechanicApp
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
+
+            app.UseCors(o => o.AllowAnyHeader().AllowAnyMethod().AllowAnyOrigin());
 
             app.UseHttpsRedirection();
 

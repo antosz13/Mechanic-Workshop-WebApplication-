@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "EFDi0ZLUbsOH+wJQ/7Zz6jy/d/5YGkFj0OUu79JOTQs=",
+  "Hash": "SyRdzxtilXjTOCjiqDOLiABRReU3HLO0j6ujV0RG3pw=",
   "Source": "MechanicApp.UI",
   "BasePath": "/",
   "Mode": "Root",
@@ -52,7 +52,7 @@
       "AssetTraitValue": "boot",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Antosz\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\8.0.4\\build\\net8.0\\blazor.webassembly.js"
+      "OriginalItemSpec": "C:\\Users\\Antosz\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\8.0.5\\build\\net8.0\\blazor.webassembly.js"
     },
     {
       "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.js",
@@ -71,7 +71,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.4\\runtimes\\browser-wasm\\native\\dotnet.js"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.5\\runtimes\\browser-wasm\\native\\dotnet.js"
     },
     {
       "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
@@ -90,15 +90,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.4\\runtimes\\browser-wasm\\native\\dotnet.js.map"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.5\\runtimes\\browser-wasm\\native\\dotnet.js.map"
     },
     {
-      "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.4.rkw194kvb3.js",
+      "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.5.ew1vqrwwsw.js",
       "SourceId": "MechanicApp.UI",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.4.rkw194kvb3.js",
+      "RelativePath": "_framework/dotnet.native.8.0.5.ew1vqrwwsw.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -109,7 +109,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.4\\runtimes\\browser-wasm\\native\\dotnet.native.js"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.5\\runtimes\\browser-wasm\\native\\dotnet.native.js"
     },
     {
       "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
@@ -128,15 +128,15 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.4\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.5\\runtimes\\browser-wasm\\native\\dotnet.native.wasm"
     },
     {
-      "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.4.ogva3chynz.js",
+      "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.5.gongq8hbow.js",
       "SourceId": "MechanicApp.UI",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.4.ogva3chynz.js",
+      "RelativePath": "_framework/dotnet.runtime.8.0.5.gongq8hbow.js",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -147,7 +147,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.4\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.5\\runtimes\\browser-wasm\\native\\dotnet.runtime.js"
     },
     {
       "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
@@ -166,7 +166,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.4\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.5\\runtimes\\browser-wasm\\native\\dotnet.runtime.js.map"
     },
     {
       "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
@@ -185,7 +185,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.4\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.5\\runtimes\\browser-wasm\\native\\icudt_CJK.dat"
     },
     {
       "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
@@ -204,7 +204,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.4\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.5\\runtimes\\browser-wasm\\native\\icudt_EFIGS.dat"
     },
     {
       "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
@@ -223,7 +223,7 @@
       "AssetTraitValue": "native",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.4\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
+      "OriginalItemSpec": "C:\\Program Files\\dotnet\\packs\\Microsoft.NETCore.App.Runtime.Mono.browser-wasm\\8.0.5\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
     },
     {
       "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\MechanicApp.Shared.pdb",
@@ -3931,25 +3931,6 @@
       "OriginalItemSpec": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\obj\\Release\\net8.0\\webcil\\WindowsBase.wasm"
     },
     {
-      "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\obj\\Release\\net8.0\\compressed\\02n0c0que6.gz",
-      "SourceId": "MechanicApp.UI",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
-    },
-    {
       "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\obj\\Release\\net8.0\\compressed\\0bpzr7mgt0.gz",
       "SourceId": "MechanicApp.UI",
       "SourceType": "Computed",
@@ -4043,25 +4024,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\System.ServiceProcess.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\obj\\Release\\net8.0\\compressed\\15cs2q8knl.gz",
-      "SourceId": "MechanicApp.UI",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
     },
     {
       "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\obj\\Release\\net8.0\\compressed\\1d89fh6ggr.gz",
@@ -4558,6 +4520,25 @@
       "OriginalItemSpec": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\System.Drawing.Primitives.wasm"
     },
     {
+      "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\obj\\Release\\net8.0\\compressed\\641whrt3d5.gz",
+      "SourceId": "MechanicApp.UI",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_EFIGS.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\icudt_EFIGS.dat"
+    },
+    {
       "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\obj\\Release\\net8.0\\compressed\\6dsahafhwy.gz",
       "SourceId": "MechanicApp.UI",
       "SourceType": "Computed",
@@ -4805,6 +4786,25 @@
       "OriginalItemSpec": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\System.Reflection.Emit.Lightweight.wasm"
     },
     {
+      "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\obj\\Release\\net8.0\\compressed\\7hm6s93b13.gz",
+      "SourceId": "MechanicApp.UI",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.js.map"
+    },
+    {
       "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\obj\\Release\\net8.0\\compressed\\7o7n008q71.gz",
       "SourceId": "MechanicApp.UI",
       "SourceType": "Computed",
@@ -4974,25 +4974,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\System.Security.Cryptography.Algorithms.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\obj\\Release\\net8.0\\compressed\\9f1e1ur0qj.gz",
-      "SourceId": "MechanicApp.UI",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.js.map"
     },
     {
       "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\obj\\Release\\net8.0\\compressed\\9l7gdi513m.gz",
@@ -5240,25 +5221,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\System.Security.AccessControl.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\obj\\Release\\net8.0\\compressed\\bmj114yitl.gz",
-      "SourceId": "MechanicApp.UI",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.wasm.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
     },
     {
       "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\obj\\Release\\net8.0\\compressed\\bozq3v2l6t.gz",
@@ -5546,25 +5508,6 @@
       "OriginalItemSpec": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\MechanicApp.UI.pdb"
     },
     {
-      "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\obj\\Release\\net8.0\\compressed\\e3mwlbrndd.gz",
-      "SourceId": "MechanicApp.UI",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/blazor.webassembly.js.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js"
-    },
-    {
       "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\obj\\Release\\net8.0\\compressed\\ea57gmr0uf.gz",
       "SourceId": "MechanicApp.UI",
       "SourceType": "Computed",
@@ -5639,6 +5582,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\obj\\Release\\net8.0\\compressed\\ew1vqrwwsw.gz",
+      "SourceId": "MechanicApp.UI",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.8.0.5.ew1vqrwwsw.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.5.ew1vqrwwsw.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.5.ew1vqrwwsw.js"
     },
     {
       "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\obj\\Release\\net8.0\\compressed\\f0a384wtzo.gz",
@@ -5867,6 +5829,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\System.Security.Principal.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\obj\\Release\\net8.0\\compressed\\gongq8hbow.gz",
+      "SourceId": "MechanicApp.UI",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.8.0.5.gongq8hbow.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.5.gongq8hbow.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.5.gongq8hbow.js"
     },
     {
       "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\obj\\Release\\net8.0\\compressed\\gtncywgafo.gz",
@@ -6116,6 +6097,25 @@
       "OriginalItemSpec": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\System.Diagnostics.TextWriterTraceListener.wasm"
     },
     {
+      "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\obj\\Release\\net8.0\\compressed\\ibgvc3mbbn.gz",
+      "SourceId": "MechanicApp.UI",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.native.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.native.wasm"
+    },
+    {
       "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\obj\\Release\\net8.0\\compressed\\icvddge0t6.gz",
       "SourceId": "MechanicApp.UI",
       "SourceType": "Computed",
@@ -6325,25 +6325,6 @@
       "OriginalItemSpec": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\System.Reflection.Extensions.wasm"
     },
     {
-      "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\obj\\Release\\net8.0\\compressed\\knrf6agere.gz",
-      "SourceId": "MechanicApp.UI",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
-    },
-    {
       "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\obj\\Release\\net8.0\\compressed\\kpfc6n00bg.gz",
       "SourceId": "MechanicApp.UI",
       "SourceType": "Computed",
@@ -6399,44 +6380,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\System.Net.Mail.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\obj\\Release\\net8.0\\compressed\\lbxtul14q4.gz",
-      "SourceId": "MechanicApp.UI",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.js"
-    },
-    {
-      "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\obj\\Release\\net8.0\\compressed\\lgpo5zqqv7.gz",
-      "SourceId": "MechanicApp.UI",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
     },
     {
       "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\obj\\Release\\net8.0\\compressed\\m7cbgwl3t5.gz",
@@ -6591,6 +6534,25 @@
       "OriginalItemSpec": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\System.Runtime.InteropServices.RuntimeInformation.wasm"
     },
     {
+      "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\obj\\Release\\net8.0\\compressed\\nzvv05lacr.gz",
+      "SourceId": "MechanicApp.UI",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_no_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
+    },
+    {
       "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\obj\\Release\\net8.0\\compressed\\o1xqd0oyzr.gz",
       "SourceId": "MechanicApp.UI",
       "SourceType": "Computed",
@@ -6665,25 +6627,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\System.IO.IsolatedStorage.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\obj\\Release\\net8.0\\compressed\\ogva3chynz.gz",
-      "SourceId": "MechanicApp.UI",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.runtime.8.0.4.ogva3chynz.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.4.ogva3chynz.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.runtime.8.0.4.ogva3chynz.js"
     },
     {
       "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\obj\\Release\\net8.0\\compressed\\ondzizdjfp.gz",
@@ -6914,6 +6857,25 @@
       "OriginalItemSpec": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\System.Xml.XPath.wasm"
     },
     {
+      "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\obj\\Release\\net8.0\\compressed\\q2rv227kvb.gz",
+      "SourceId": "MechanicApp.UI",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt_CJK.dat.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\icudt_CJK.dat"
+    },
+    {
       "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\obj\\Release\\net8.0\\compressed\\q62ohbz2wp.gz",
       "SourceId": "MechanicApp.UI",
       "SourceType": "Computed",
@@ -7045,25 +7007,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\System.Reflection.Primitives.wasm"
-    },
-    {
-      "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\obj\\Release\\net8.0\\compressed\\rkw194kvb3.gz",
-      "SourceId": "MechanicApp.UI",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/dotnet.native.8.0.4.rkw194kvb3.js.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.4.rkw194kvb3.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.native.8.0.4.rkw194kvb3.js"
     },
     {
       "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\obj\\Release\\net8.0\\compressed\\roet80rxcc.gz",
@@ -7313,6 +7256,25 @@
       "OriginalItemSpec": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\System.IO.FileSystem.DriveInfo.wasm"
     },
     {
+      "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\obj\\Release\\net8.0\\compressed\\uwh8dnsva1.gz",
+      "SourceId": "MechanicApp.UI",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.js.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.js"
+    },
+    {
       "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\obj\\Release\\net8.0\\compressed\\uxggz6wov7.gz",
       "SourceId": "MechanicApp.UI",
       "SourceType": "Computed",
@@ -7503,6 +7465,25 @@
       "OriginalItemSpec": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\System.Reflection.Emit.ILGeneration.wasm"
     },
     {
+      "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\obj\\Release\\net8.0\\compressed\\wj55uthord.gz",
+      "SourceId": "MechanicApp.UI",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/dotnet.runtime.js.map.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.runtime.js.map"
+    },
+    {
       "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\obj\\Release\\net8.0\\compressed\\wlstfmi612.gz",
       "SourceId": "MechanicApp.UI",
       "SourceType": "Computed",
@@ -7615,6 +7596,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\System.Linq.Expressions.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\obj\\Release\\net8.0\\compressed\\xwqhhmgp6p.gz",
+      "SourceId": "MechanicApp.UI",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/blazor.webassembly.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\bin\\Release\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js"
     },
     {
       "Identity": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\obj\\Release\\net8.0\\compressed\\yluhwi3h80.gz",

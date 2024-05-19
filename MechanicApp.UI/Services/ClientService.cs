@@ -14,27 +14,27 @@ namespace MechanicApp.UI.Services
 
         public async Task AddClientAsync(Client client)
         {
-            await _httpClient.PostAsJsonAsync("/clients", client);
+            await _httpClient.PostAsJsonAsync("/Clients", client);
         }
 
         public async Task DeleteClientAsync(Guid id)
         {
-            await _httpClient.DeleteAsync($"/clients/{id}");
+            await _httpClient.DeleteAsync($"/Clients/{id}");
         }
 
         public async Task<Client> GetClientAsync(Guid id)
         {
-            return await _httpClient.GetFromJsonAsync<Client>($"/clients/{id}");
+            return await _httpClient.GetFromJsonAsync<Client>($"Clients/{id}");
         }
 
         public async Task<IEnumerable<Client>> GetAllClientAsync()
         {
-            return await _httpClient.GetFromJsonAsync<IEnumerable<Client>>("/clients");
+            return await _httpClient.GetFromJsonAsync<IEnumerable<Client>>("/Clients");
         }
 
         public async Task UpdateClientAsync(Guid id, Client client)
         {
-            await _httpClient.PutAsJsonAsync($"/clients/{id}", client);
+            await _httpClient.PutAsJsonAsync($"/Clients/{id}", client);
         }
     }
 }

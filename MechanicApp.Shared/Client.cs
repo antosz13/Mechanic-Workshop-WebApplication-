@@ -20,7 +20,5 @@ namespace MechanicApp.Shared
         [EmailAddress]
         [MaxLength(50)]
         public string Email { get; set; }
-
-        public string? Summary { get; set; }
     }
 }

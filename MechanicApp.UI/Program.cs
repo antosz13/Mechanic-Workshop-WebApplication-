@@ -13,9 +13,8 @@ namespace MechanicApp.UI
             builder.RootComponents.Add<HeadOutlet>("head::after");
 
             builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri("http://localhost:8080") });
-            builder.Services
-                .AddScoped<IClientService, ClientService>()
-                .AddScoped<IJobService, JobService>();
+            builder.Services.AddScoped<IClientService, ClientService>();
+            builder.Services.AddScoped<IJobService, JobService>();
             await builder.Build().RunAsync();
         }
     }

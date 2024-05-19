@@ -157,3 +157,1019 @@
 2024-05-18 20:50:58.971 +02:00 [INF] Hosting environment: Development
 2024-05-18 20:50:58.972 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp
 2024-05-18 21:47:16.680 +02:00 [INF] Application is shutting down...
+2024-05-19 11:56:53.069 +02:00 [INF] Now listening on: http://localhost:5120
+2024-05-19 11:56:53.089 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-19 11:56:53.091 +02:00 [INF] Hosting environment: Development
+2024-05-19 11:56:53.092 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp
+2024-05-19 11:56:53.549 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/swagger/index.html - null null
+2024-05-19 11:56:53.827 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/swagger/index.html - 200 null text/html;charset=utf-8 279.3177ms
+2024-05-19 11:56:53.978 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-19 11:56:53.978 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/_vs/browserLink - null null
+2024-05-19 11:56:53.983 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/_framework/aspnetcore-browser-refresh.js - 200 13758 application/javascript; charset=utf-8 5.0445ms
+2024-05-19 11:56:54.037 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/_vs/browserLink - 200 null text/javascript; charset=UTF-8 59.1215ms
+2024-05-19 11:56:54.185 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/swagger/v1/swagger.json - null null
+2024-05-19 11:56:54.367 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 182.194ms
+2024-05-19 12:02:47.252 +02:00 [INF] Application is shutting down...
+2024-05-19 12:13:36.284 +02:00 [INF] Now listening on: http://localhost:5120
+2024-05-19 12:13:36.303 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-19 12:13:36.305 +02:00 [INF] Hosting environment: Development
+2024-05-19 12:13:36.306 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp
+2024-05-19 12:13:36.571 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/swagger/index.html - null null
+2024-05-19 12:13:36.822 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/swagger/index.html - 200 null text/html;charset=utf-8 252.2918ms
+2024-05-19 12:13:36.884 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-19 12:13:36.890 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/_framework/aspnetcore-browser-refresh.js - 200 13758 application/javascript; charset=utf-8 5.6384ms
+2024-05-19 12:13:36.949 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/_vs/browserLink - null null
+2024-05-19 12:13:36.988 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/_vs/browserLink - 200 null text/javascript; charset=UTF-8 38.3513ms
+2024-05-19 12:13:37.089 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/swagger/v1/swagger.json - null null
+2024-05-19 12:13:37.224 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 135.1769ms
+2024-05-19 12:15:48.478 +02:00 [INF] Application is shutting down...
+2024-05-19 12:17:56.270 +02:00 [INF] Now listening on: http://localhost:5120
+2024-05-19 12:17:56.288 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-19 12:17:56.289 +02:00 [INF] Hosting environment: Development
+2024-05-19 12:17:56.290 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp
+2024-05-19 12:17:57.307 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/swagger/index.html - null null
+2024-05-19 12:17:57.652 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/swagger/index.html - 200 null text/html;charset=utf-8 346.6547ms
+2024-05-19 12:17:57.712 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-19 12:17:57.718 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/_framework/aspnetcore-browser-refresh.js - 200 13758 application/javascript; charset=utf-8 6.0138ms
+2024-05-19 12:17:57.766 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/_vs/browserLink - null null
+2024-05-19 12:17:57.808 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/_vs/browserLink - 200 null text/javascript; charset=UTF-8 41.586ms
+2024-05-19 12:17:57.875 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/swagger/v1/swagger.json - null null
+2024-05-19 12:17:58.070 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 195.1473ms
+2024-05-19 12:22:41.715 +02:00 [INF] Application is shutting down...
+2024-05-19 12:27:44.964 +02:00 [INF] Now listening on: http://localhost:5120
+2024-05-19 12:27:44.984 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-19 12:27:44.985 +02:00 [INF] Hosting environment: Development
+2024-05-19 12:27:44.986 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp
+2024-05-19 12:27:45.283 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/swagger/index.html - null null
+2024-05-19 12:27:45.431 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/swagger/index.html - 200 null text/html;charset=utf-8 148.9087ms
+2024-05-19 12:27:45.495 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-19 12:27:45.501 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/_framework/aspnetcore-browser-refresh.js - 200 13758 application/javascript; charset=utf-8 6.0806ms
+2024-05-19 12:27:45.506 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/_vs/browserLink - null null
+2024-05-19 12:27:45.533 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/_vs/browserLink - 200 null text/javascript; charset=UTF-8 27.3815ms
+2024-05-19 12:27:45.615 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/swagger/v1/swagger.json - null null
+2024-05-19 12:27:45.729 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 114.1419ms
+2024-05-19 12:36:13.826 +02:00 [INF] Application is shutting down...
+2024-05-19 12:53:55.802 +02:00 [INF] Now listening on: http://localhost:5120
+2024-05-19 12:53:55.822 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-19 12:53:55.824 +02:00 [INF] Hosting environment: Development
+2024-05-19 12:53:55.825 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp
+2024-05-19 12:53:57.443 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/swagger/index.html - null null
+2024-05-19 12:53:57.688 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/swagger/index.html - 200 null text/html;charset=utf-8 246.7431ms
+2024-05-19 12:53:57.723 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-19 12:53:57.731 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/_framework/aspnetcore-browser-refresh.js - 200 13758 application/javascript; charset=utf-8 8.381ms
+2024-05-19 12:53:57.826 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/_vs/browserLink - null null
+2024-05-19 12:53:57.885 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/_vs/browserLink - 200 null text/javascript; charset=UTF-8 58.5702ms
+2024-05-19 12:53:57.949 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/swagger/v1/swagger.json - null null
+2024-05-19 12:53:58.167 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 218.5501ms
+2024-05-19 13:02:46.367 +02:00 [INF] Application is shutting down...
+2024-05-19 13:05:45.155 +02:00 [INF] Now listening on: http://localhost:5120
+2024-05-19 13:05:45.182 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-19 13:05:45.183 +02:00 [INF] Hosting environment: Development
+2024-05-19 13:05:45.184 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp
+2024-05-19 13:05:46.193 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/swagger/index.html - null null
+2024-05-19 13:05:46.534 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/swagger/index.html - 200 null text/html;charset=utf-8 342.6891ms
+2024-05-19 13:05:46.569 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-19 13:05:46.579 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/_framework/aspnetcore-browser-refresh.js - 200 13758 application/javascript; charset=utf-8 10.7883ms
+2024-05-19 13:05:46.707 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/_vs/browserLink - null null
+2024-05-19 13:05:46.897 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/_vs/browserLink - 200 null text/javascript; charset=UTF-8 189.6309ms
+2024-05-19 13:05:47.024 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/swagger/v1/swagger.json - null null
+2024-05-19 13:05:47.231 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 207.5599ms
+2024-05-19 15:12:59.538 +02:00 [INF] Now listening on: http://localhost:5120
+2024-05-19 15:12:59.555 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-19 15:12:59.557 +02:00 [INF] Hosting environment: Development
+2024-05-19 15:12:59.558 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp
+2024-05-19 15:14:20.420 +02:00 [INF] Now listening on: http://localhost:5120
+2024-05-19 15:14:20.438 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-19 15:14:20.440 +02:00 [INF] Hosting environment: Development
+2024-05-19 15:14:20.441 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp
+2024-05-19 15:14:33.200 +02:00 [INF] Now listening on: http://localhost:5120
+2024-05-19 15:14:33.218 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-19 15:14:33.219 +02:00 [INF] Hosting environment: Development
+2024-05-19 15:14:33.220 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp
+2024-05-19 15:14:47.032 +02:00 [INF] Now listening on: http://localhost:5120
+2024-05-19 15:14:47.052 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-19 15:14:47.053 +02:00 [INF] Hosting environment: Development
+2024-05-19 15:14:47.055 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp
+2024-05-19 15:15:26.705 +02:00 [INF] Now listening on: http://localhost:5120
+2024-05-19 15:15:26.723 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-19 15:15:26.725 +02:00 [INF] Hosting environment: Development
+2024-05-19 15:15:26.726 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp
+2024-05-19 15:15:57.091 +02:00 [INF] Now listening on: http://localhost:5120
+2024-05-19 15:15:57.108 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-19 15:15:57.109 +02:00 [INF] Hosting environment: Development
+2024-05-19 15:15:57.111 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp
+2024-05-19 15:17:05.446 +02:00 [INF] Now listening on: http://localhost:5120
+2024-05-19 15:17:05.462 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-19 15:17:05.464 +02:00 [INF] Hosting environment: Development
+2024-05-19 15:17:05.465 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp
+2024-05-19 15:17:56.683 +02:00 [INF] Now listening on: http://localhost:5120
+2024-05-19 15:17:56.700 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-19 15:17:56.702 +02:00 [INF] Hosting environment: Development
+2024-05-19 15:17:56.703 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp
+2024-05-19 15:20:25.848 +02:00 [INF] Now listening on: http://localhost:5120
+2024-05-19 15:20:25.872 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-19 15:20:25.874 +02:00 [INF] Hosting environment: Development
+2024-05-19 15:20:25.877 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp
+2024-05-19 15:20:59.682 +02:00 [INF] Now listening on: http://localhost:5120
+2024-05-19 15:20:59.699 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-19 15:20:59.701 +02:00 [INF] Hosting environment: Development
+2024-05-19 15:20:59.702 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp
+2024-05-19 15:21:25.388 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/swagger/index.html - null null
+2024-05-19 15:21:25.683 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/swagger/index.html - 200 null text/html;charset=utf-8 295.7776ms
+2024-05-19 15:21:25.712 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-19 15:21:25.719 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/_framework/aspnetcore-browser-refresh.js - 200 13758 application/javascript; charset=utf-8 6.5586ms
+2024-05-19 15:21:25.784 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/_vs/browserLink - null null
+2024-05-19 15:21:25.814 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/_vs/browserLink - 200 null text/javascript; charset=UTF-8 30.2484ms
+2024-05-19 15:21:25.889 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/swagger/v1/swagger.json - null null
+2024-05-19 15:21:26.030 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 141.6213ms
+2024-05-19 15:22:29.384 +02:00 [INF] Application is shutting down...
+2024-05-19 15:23:21.479 +02:00 [INF] Now listening on: http://localhost:5120
+2024-05-19 15:23:21.496 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-19 15:23:21.498 +02:00 [INF] Hosting environment: Development
+2024-05-19 15:23:21.499 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp
+2024-05-19 15:23:21.882 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/swagger/index.html - null null
+2024-05-19 15:23:22.025 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/swagger/index.html - 200 null text/html;charset=utf-8 144.3339ms
+2024-05-19 15:23:22.055 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-19 15:23:22.061 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/_framework/aspnetcore-browser-refresh.js - 200 13758 application/javascript; charset=utf-8 5.9941ms
+2024-05-19 15:23:22.133 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/_vs/browserLink - null null
+2024-05-19 15:23:22.155 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/_vs/browserLink - 200 null text/javascript; charset=UTF-8 21.3026ms
+2024-05-19 15:23:22.232 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/swagger/v1/swagger.json - null null
+2024-05-19 15:23:22.346 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 114.2789ms
+2024-05-19 15:33:30.791 +02:00 [INF] Now listening on: http://localhost:5120
+2024-05-19 15:33:30.808 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-19 15:33:30.810 +02:00 [INF] Hosting environment: Development
+2024-05-19 15:33:30.811 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp
+2024-05-19 15:33:31.019 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/swagger/index.html - null null
+2024-05-19 15:33:31.156 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/swagger/index.html - 200 null text/html;charset=utf-8 137.1433ms
+2024-05-19 15:33:31.183 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-19 15:33:31.188 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/_framework/aspnetcore-browser-refresh.js - 200 13758 application/javascript; charset=utf-8 4.5433ms
+2024-05-19 15:33:31.255 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/_vs/browserLink - null null
+2024-05-19 15:33:31.280 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/_vs/browserLink - 200 null text/javascript; charset=UTF-8 24.971ms
+2024-05-19 15:33:31.427 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/swagger/v1/swagger.json - null null
+2024-05-19 15:33:31.531 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 104.4743ms
+2024-05-19 15:34:56.674 +02:00 [INF] Now listening on: http://localhost:5120
+2024-05-19 15:34:56.692 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-19 15:34:56.693 +02:00 [INF] Hosting environment: Development
+2024-05-19 15:34:56.694 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp
+2024-05-19 15:34:56.892 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/swagger/index.html - null null
+2024-05-19 15:34:57.037 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/swagger/index.html - 200 null text/html;charset=utf-8 146.9547ms
+2024-05-19 15:34:57.088 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/_vs/browserLink - null null
+2024-05-19 15:34:57.088 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-19 15:34:57.096 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/_framework/aspnetcore-browser-refresh.js - 200 13758 application/javascript; charset=utf-8 8.3796ms
+2024-05-19 15:34:57.120 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/_vs/browserLink - 200 null text/javascript; charset=UTF-8 32.2007ms
+2024-05-19 15:34:57.169 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/swagger/v1/swagger.json - null null
+2024-05-19 15:34:57.291 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 121.7918ms
+2024-05-19 15:49:38.033 +02:00 [INF] Now listening on: http://localhost:5120
+2024-05-19 15:49:38.084 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-19 15:49:38.088 +02:00 [INF] Hosting environment: Development
+2024-05-19 15:49:38.091 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp
+2024-05-19 15:49:38.673 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/swagger/index.html - null null
+2024-05-19 15:49:39.237 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/swagger/index.html - 200 null text/html;charset=utf-8 564.9379ms
+2024-05-19 15:49:39.271 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-19 15:49:39.278 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/_framework/aspnetcore-browser-refresh.js - 200 13758 application/javascript; charset=utf-8 6.4164ms
+2024-05-19 15:49:39.397 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/_vs/browserLink - null null
+2024-05-19 15:49:39.623 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/_vs/browserLink - 200 null text/javascript; charset=UTF-8 226.0404ms
+2024-05-19 15:49:39.754 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/swagger/v1/swagger.json - null null
+2024-05-19 15:49:40.004 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 249.4472ms
+2024-05-19 16:09:35.899 +02:00 [INF] Application is shutting down...
+2024-05-19 16:10:44.536 +02:00 [INF] Executed DbCommand (9ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsHistory' AND "type" = 'table';
+2024-05-19 16:10:44.610 +02:00 [INF] Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE "__EFMigrationsHistory" (
+    "MigrationId" TEXT NOT NULL CONSTRAINT "PK___EFMigrationsHistory" PRIMARY KEY,
+    "ProductVersion" TEXT NOT NULL
+);
+2024-05-19 16:10:44.612 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsHistory' AND "type" = 'table';
+2024-05-19 16:10:44.614 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId";
+2024-05-19 16:10:44.625 +02:00 [INF] Applying migration '20240519131754_Initial'.
+2024-05-19 16:10:44.643 +02:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE "Clients" (
+    "ClientId" TEXT NOT NULL CONSTRAINT "PK_Clients" PRIMARY KEY,
+    "Name" TEXT NOT NULL,
+    "Address" TEXT NOT NULL,
+    "Email" TEXT NOT NULL
+);
+2024-05-19 16:10:44.644 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE "Jobs" (
+    "JobId" TEXT NOT NULL CONSTRAINT "PK_Jobs" PRIMARY KEY,
+    "ClientId" INTEGER NOT NULL,
+    "NumberPlate" TEXT NOT NULL,
+    "YearOfProduction" TEXT NOT NULL,
+    "Category" INTEGER NOT NULL,
+    "Description" TEXT NOT NULL,
+    "Seriousness" INTEGER NOT NULL,
+    "Status" INTEGER NOT NULL,
+    "Summary" TEXT NULL
+);
+2024-05-19 16:10:44.644 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "__EFMigrationsHistory" ("MigrationId", "ProductVersion")
+VALUES ('20240519131754_Initial', '8.0.5');
+2024-05-19 16:12:45.999 +02:00 [INF] Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsHistory' AND "type" = 'table';
+2024-05-19 16:12:46.017 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsHistory' AND "type" = 'table';
+2024-05-19 16:12:46.028 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId";
+2024-05-19 16:12:46.038 +02:00 [INF] No migrations were applied. The database is already up to date.
+2024-05-19 16:13:55.479 +02:00 [INF] Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsHistory' AND "type" = 'table';
+2024-05-19 16:13:55.498 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsHistory' AND "type" = 'table';
+2024-05-19 16:13:55.511 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId";
+2024-05-19 16:13:55.522 +02:00 [INF] No migrations were applied. The database is already up to date.
+2024-05-19 16:14:34.826 +02:00 [INF] Now listening on: http://localhost:5120
+2024-05-19 16:14:34.843 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-19 16:14:34.845 +02:00 [INF] Hosting environment: Development
+2024-05-19 16:14:34.846 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp
+2024-05-19 16:14:35.153 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/swagger/index.html - null null
+2024-05-19 16:14:35.271 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/swagger/index.html - 200 null text/html;charset=utf-8 117.9907ms
+2024-05-19 16:14:35.292 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-19 16:14:35.297 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/_framework/aspnetcore-browser-refresh.js - 200 13758 application/javascript; charset=utf-8 4.4462ms
+2024-05-19 16:14:35.357 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/_vs/browserLink - null null
+2024-05-19 16:14:35.379 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/_vs/browserLink - 200 null text/javascript; charset=UTF-8 21.8499ms
+2024-05-19 16:14:35.454 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/swagger/v1/swagger.json - null null
+2024-05-19 16:14:35.555 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 100.6491ms
+2024-05-19 16:17:05.402 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/swagger/index.html - null null
+2024-05-19 16:17:05.411 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/swagger/index.html - 200 null text/html;charset=utf-8 9.8237ms
+2024-05-19 16:17:05.463 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-19 16:17:05.467 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/_framework/aspnetcore-browser-refresh.js - 200 13758 application/javascript; charset=utf-8 3.5399ms
+2024-05-19 16:17:05.472 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/_vs/browserLink - null null
+2024-05-19 16:17:05.492 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/_vs/browserLink - 200 null text/javascript; charset=UTF-8 19.1536ms
+2024-05-19 16:17:05.539 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/swagger/v1/swagger.json - null null
+2024-05-19 16:17:05.551 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 11.4466ms
+2024-05-19 16:20:38.302 +02:00 [INF] Now listening on: http://localhost:5120
+2024-05-19 16:20:38.320 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-19 16:20:38.321 +02:00 [INF] Hosting environment: Development
+2024-05-19 16:20:38.322 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp
+2024-05-19 16:20:38.517 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/swagger/index.html - null null
+2024-05-19 16:20:38.663 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/swagger/index.html - 200 null text/html;charset=utf-8 146.1939ms
+2024-05-19 16:20:38.770 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-19 16:20:38.775 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/_framework/aspnetcore-browser-refresh.js - 200 13758 application/javascript; charset=utf-8 4.542ms
+2024-05-19 16:20:38.780 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/_vs/browserLink - null null
+2024-05-19 16:20:38.800 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/_vs/browserLink - 200 null text/javascript; charset=UTF-8 20.5363ms
+2024-05-19 16:20:38.950 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5120/swagger/v1/swagger.json - null null
+2024-05-19 16:20:39.118 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5120/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 167.9649ms
+2024-05-19 16:22:31.076 +02:00 [INF] Now listening on: http://localhost:8080
+2024-05-19 16:22:31.093 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-19 16:22:31.095 +02:00 [INF] Hosting environment: Development
+2024-05-19 16:22:31.096 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp
+2024-05-19 16:22:41.166 +02:00 [INF] Application is shutting down...
+2024-05-19 16:25:22.472 +02:00 [INF] Now listening on: http://localhost:8080
+2024-05-19 16:25:22.489 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-19 16:25:22.490 +02:00 [INF] Hosting environment: Development
+2024-05-19 16:25:22.492 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp
+2024-05-19 16:25:38.575 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8080/clients - null null
+2024-05-19 16:25:38.621 +02:00 [WRN] Failed to determine the https port for redirect.
+2024-05-19 16:25:38.625 +02:00 [INF] Executing endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 16:25:38.642 +02:00 [INF] Route matched with {action = "GetAll", controller = "Clients"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[MechanicApp.Shared.Client]]] GetAll() on controller MechanicApp.Controllers.ClientsController (MechanicApp).
+2024-05-19 16:25:38.766 +02:00 [INF] Executing action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) - Validation state: "Valid"
+2024-05-19 16:25:39.712 +02:00 [INF] Executed DbCommand (11ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "c"."ClientId", "c"."Address", "c"."Email", "c"."Name"
+FROM "Clients" AS "c"
+2024-05-19 16:25:39.734 +02:00 [INF] Executed action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 962.884ms.
+2024-05-19 16:25:39.743 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[MechanicApp.Shared.Client, MechanicApp.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-05-19 16:25:39.768 +02:00 [INF] Executed action MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) in 1119.452ms
+2024-05-19 16:25:39.769 +02:00 [INF] Executed endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 16:25:39.773 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8080/clients - 200 null application/json; charset=utf-8 1199.2139ms
+2024-05-19 16:28:52.845 +02:00 [INF] Application is shutting down...
+2024-05-19 16:29:59.763 +02:00 [INF] Now listening on: http://localhost:8080
+2024-05-19 16:29:59.781 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-19 16:29:59.783 +02:00 [INF] Hosting environment: Development
+2024-05-19 16:29:59.784 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp
+2024-05-19 16:30:45.594 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8080/clients - null null
+2024-05-19 16:30:45.643 +02:00 [WRN] Failed to determine the https port for redirect.
+2024-05-19 16:30:45.648 +02:00 [INF] Executing endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 16:30:45.663 +02:00 [INF] Route matched with {action = "GetAll", controller = "Clients"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[MechanicApp.Shared.Client]]] GetAll() on controller MechanicApp.Controllers.ClientsController (MechanicApp).
+2024-05-19 16:30:45.775 +02:00 [INF] Executing action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) - Validation state: "Valid"
+2024-05-19 16:30:46.513 +02:00 [INF] Executed DbCommand (11ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "c"."ClientId", "c"."Address", "c"."Email", "c"."Name"
+FROM "Clients" AS "c"
+2024-05-19 16:30:46.537 +02:00 [INF] Executed action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 755.9849ms.
+2024-05-19 16:30:46.546 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[MechanicApp.Shared.Client, MechanicApp.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-05-19 16:30:46.571 +02:00 [INF] Executed action MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) in 901.5018ms
+2024-05-19 16:30:46.573 +02:00 [INF] Executed endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 16:30:46.576 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8080/clients - 200 null application/json; charset=utf-8 984.2313ms
+2024-05-19 16:40:43.957 +02:00 [INF] Now listening on: http://localhost:8080
+2024-05-19 16:40:43.974 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-19 16:40:43.975 +02:00 [INF] Hosting environment: Development
+2024-05-19 16:40:43.976 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp
+2024-05-19 16:40:59.321 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8080/clients - null null
+2024-05-19 16:40:59.366 +02:00 [WRN] Failed to determine the https port for redirect.
+2024-05-19 16:40:59.371 +02:00 [INF] Executing endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 16:40:59.388 +02:00 [INF] Route matched with {action = "GetAll", controller = "Clients"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[MechanicApp.Shared.Client]]] GetAll() on controller MechanicApp.Controllers.ClientsController (MechanicApp).
+2024-05-19 16:40:59.498 +02:00 [INF] Executing action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) - Validation state: "Valid"
+2024-05-19 16:41:00.225 +02:00 [INF] Executed DbCommand (11ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "c"."ClientId", "c"."Address", "c"."Email", "c"."Name"
+FROM "Clients" AS "c"
+2024-05-19 16:41:00.248 +02:00 [INF] Executed action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 744.5243ms.
+2024-05-19 16:41:00.256 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[MechanicApp.Shared.Client, MechanicApp.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-05-19 16:41:00.282 +02:00 [INF] Executed action MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) in 886.5137ms
+2024-05-19 16:41:00.284 +02:00 [INF] Executed endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 16:41:00.287 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8080/clients - 200 null application/json; charset=utf-8 967.4787ms
+2024-05-19 16:54:08.054 +02:00 [INF] Application is shutting down...
+2024-05-19 16:54:28.320 +02:00 [INF] Now listening on: http://localhost:8080
+2024-05-19 16:54:28.336 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-19 16:54:28.338 +02:00 [INF] Hosting environment: Development
+2024-05-19 16:54:28.339 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp
+2024-05-19 16:54:45.722 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8080/clients - null null
+2024-05-19 16:54:45.769 +02:00 [WRN] Failed to determine the https port for redirect.
+2024-05-19 16:54:45.773 +02:00 [INF] Executing endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 16:54:45.792 +02:00 [INF] Route matched with {action = "GetAll", controller = "Clients"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[MechanicApp.Shared.Client]]] GetAll() on controller MechanicApp.Controllers.ClientsController (MechanicApp).
+2024-05-19 16:54:45.924 +02:00 [INF] Executing action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) - Validation state: "Valid"
+2024-05-19 16:54:46.691 +02:00 [INF] Executed DbCommand (13ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "c"."ClientId", "c"."Address", "c"."Email", "c"."Name"
+FROM "Clients" AS "c"
+2024-05-19 16:54:46.714 +02:00 [INF] Executed action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 783.2259ms.
+2024-05-19 16:54:46.721 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[MechanicApp.Shared.Client, MechanicApp.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-05-19 16:54:46.746 +02:00 [INF] Executed action MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) in 949.4636ms
+2024-05-19 16:54:46.748 +02:00 [INF] Executed endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 16:54:46.751 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8080/clients - 200 null application/json; charset=utf-8 1030.5923ms
+2024-05-19 16:54:55.446 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8080/clients - null null
+2024-05-19 16:54:55.450 +02:00 [INF] Executing endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 16:54:55.451 +02:00 [INF] Route matched with {action = "GetAll", controller = "Clients"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[MechanicApp.Shared.Client]]] GetAll() on controller MechanicApp.Controllers.ClientsController (MechanicApp).
+2024-05-19 16:54:55.454 +02:00 [INF] Executing action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) - Validation state: "Valid"
+2024-05-19 16:54:55.458 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "c"."ClientId", "c"."Address", "c"."Email", "c"."Name"
+FROM "Clients" AS "c"
+2024-05-19 16:54:55.462 +02:00 [INF] Executed action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 6.0862ms.
+2024-05-19 16:54:55.464 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[MechanicApp.Shared.Client, MechanicApp.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-05-19 16:54:55.466 +02:00 [INF] Executed action MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) in 11.676ms
+2024-05-19 16:54:55.468 +02:00 [INF] Executed endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 16:54:55.470 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8080/clients - 200 null application/json; charset=utf-8 24.5286ms
+2024-05-19 16:57:52.514 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8080/clients - null null
+2024-05-19 16:57:52.519 +02:00 [INF] Executing endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 16:57:52.521 +02:00 [INF] Route matched with {action = "GetAll", controller = "Clients"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[MechanicApp.Shared.Client]]] GetAll() on controller MechanicApp.Controllers.ClientsController (MechanicApp).
+2024-05-19 16:57:52.525 +02:00 [INF] Executing action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) - Validation state: "Valid"
+2024-05-19 16:57:52.528 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "c"."ClientId", "c"."Address", "c"."Email", "c"."Name"
+FROM "Clients" AS "c"
+2024-05-19 16:57:52.532 +02:00 [INF] Executed action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 4.5565ms.
+2024-05-19 16:57:52.534 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[MechanicApp.Shared.Client, MechanicApp.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-05-19 16:57:52.535 +02:00 [INF] Executed action MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) in 10.3865ms
+2024-05-19 16:57:52.537 +02:00 [INF] Executed endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 16:57:52.539 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8080/clients - 200 null application/json; charset=utf-8 24.4822ms
+2024-05-19 17:00:15.041 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8080/clients - null null
+2024-05-19 17:00:27.399 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8080/clients - null null
+2024-05-19 17:02:21.308 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8080/clients - null null
+2024-05-19 17:03:12.277 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8080/clients - null null
+2024-05-19 17:06:34.807 +02:00 [INF] Executing endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 17:06:34.814 +02:00 [INF] Executing endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 17:06:34.820 +02:00 [INF] Executing endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 17:06:34.823 +02:00 [INF] Executing endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 17:06:34.825 +02:00 [INF] Route matched with {action = "GetAll", controller = "Clients"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[MechanicApp.Shared.Client]]] GetAll() on controller MechanicApp.Controllers.ClientsController (MechanicApp).
+2024-05-19 17:06:34.826 +02:00 [INF] Route matched with {action = "GetAll", controller = "Clients"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[MechanicApp.Shared.Client]]] GetAll() on controller MechanicApp.Controllers.ClientsController (MechanicApp).
+2024-05-19 17:06:34.828 +02:00 [INF] Route matched with {action = "GetAll", controller = "Clients"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[MechanicApp.Shared.Client]]] GetAll() on controller MechanicApp.Controllers.ClientsController (MechanicApp).
+2024-05-19 17:06:34.830 +02:00 [INF] Route matched with {action = "GetAll", controller = "Clients"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[MechanicApp.Shared.Client]]] GetAll() on controller MechanicApp.Controllers.ClientsController (MechanicApp).
+2024-05-19 17:06:34.832 +02:00 [INF] Executing action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) - Validation state: "Valid"
+2024-05-19 17:06:34.837 +02:00 [INF] Executing action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) - Validation state: "Valid"
+2024-05-19 17:06:34.839 +02:00 [INF] Executing action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) - Validation state: "Valid"
+2024-05-19 17:06:34.841 +02:00 [INF] Executing action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) - Validation state: "Valid"
+2024-05-19 17:06:34.844 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "c"."ClientId", "c"."Address", "c"."Email", "c"."Name"
+FROM "Clients" AS "c"
+2024-05-19 17:06:34.852 +02:00 [INF] Executed action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 9.8696ms.
+2024-05-19 17:06:34.854 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[MechanicApp.Shared.Client, MechanicApp.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-05-19 17:06:34.857 +02:00 [INF] Executed action MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) in 25.668ms
+2024-05-19 17:06:34.858 +02:00 [INF] Executed endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 17:06:34.860 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8080/clients - 499 null application/json; charset=utf-8 379819.1555ms
+2024-05-19 17:06:34.930 +02:00 [ERR] An exception occurred while iterating over the results of a query for context type 'MechanicApp.AppContext'.
+System.InvalidOperationException: A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.
+   at Microsoft.EntityFrameworkCore.Infrastructure.Internal.ConcurrencyDetector.EnterCriticalSection()
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+System.InvalidOperationException: A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.
+   at Microsoft.EntityFrameworkCore.Infrastructure.Internal.ConcurrencyDetector.EnterCriticalSection()
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+2024-05-19 17:06:34.930 +02:00 [ERR] An exception occurred while iterating over the results of a query for context type 'MechanicApp.AppContext'.
+System.InvalidOperationException: A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.
+   at Microsoft.EntityFrameworkCore.Infrastructure.Internal.ConcurrencyDetector.EnterCriticalSection()
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+System.InvalidOperationException: A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.
+   at Microsoft.EntityFrameworkCore.Infrastructure.Internal.ConcurrencyDetector.EnterCriticalSection()
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+2024-05-19 17:06:34.930 +02:00 [ERR] An exception occurred while iterating over the results of a query for context type 'MechanicApp.AppContext'.
+System.InvalidOperationException: A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.
+   at Microsoft.EntityFrameworkCore.Infrastructure.Internal.ConcurrencyDetector.EnterCriticalSection()
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+System.InvalidOperationException: A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.
+   at Microsoft.EntityFrameworkCore.Infrastructure.Internal.ConcurrencyDetector.EnterCriticalSection()
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+2024-05-19 17:06:34.937 +02:00 [INF] Executed action MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) in 98.5789ms
+2024-05-19 17:06:34.941 +02:00 [INF] Executed action MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) in 104.341ms
+2024-05-19 17:06:34.945 +02:00 [INF] Executed action MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) in 103.7275ms
+2024-05-19 17:06:34.950 +02:00 [INF] Executed endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 17:06:34.951 +02:00 [INF] Executed endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 17:06:34.952 +02:00 [INF] Executed endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 17:06:34.955 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.
+   at Microsoft.EntityFrameworkCore.Infrastructure.Internal.ConcurrencyDetector.EnterCriticalSection()
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at MechanicApp.ClientService.GetAll() in C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp\ClientService.cs:line 44
+   at MechanicApp.Controllers.ClientsController.GetAll() in C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp\Controllers\ClientsController.cs:line 63
+   at lambda_method5(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-05-19 17:06:34.955 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.
+   at Microsoft.EntityFrameworkCore.Infrastructure.Internal.ConcurrencyDetector.EnterCriticalSection()
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at MechanicApp.ClientService.GetAll() in C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp\ClientService.cs:line 44
+   at MechanicApp.Controllers.ClientsController.GetAll() in C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp\Controllers\ClientsController.cs:line 63
+   at lambda_method5(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-05-19 17:06:34.957 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: A second operation was started on this context instance before a previous operation completed. This is usually caused by different threads concurrently using the same instance of DbContext. For more information on how to avoid threading issues with DbContext, see https://go.microsoft.com/fwlink/?linkid=2097913.
+   at Microsoft.EntityFrameworkCore.Infrastructure.Internal.ConcurrencyDetector.EnterCriticalSection()
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at MechanicApp.ClientService.GetAll() in C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp\ClientService.cs:line 44
+   at MechanicApp.Controllers.ClientsController.GetAll() in C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp\Controllers\ClientsController.cs:line 63
+   at lambda_method5(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-05-19 17:06:34.991 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8080/clients - 500 null text/plain; charset=utf-8 253682.5783ms
+2024-05-19 17:06:35.006 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8080/clients - 500 null text/plain; charset=utf-8 367606.2657ms
+2024-05-19 17:06:35.024 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8080/clients - 500 null text/plain; charset=utf-8 202746.7917ms
+2024-05-19 17:07:20.435 +02:00 [INF] Now listening on: http://localhost:8080
+2024-05-19 17:07:20.453 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-19 17:07:20.454 +02:00 [INF] Hosting environment: Development
+2024-05-19 17:07:20.456 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp
+2024-05-19 17:07:34.075 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8080/clients - null null
+2024-05-19 17:07:34.122 +02:00 [WRN] Failed to determine the https port for redirect.
+2024-05-19 17:07:34.127 +02:00 [INF] Executing endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 17:07:34.143 +02:00 [INF] Route matched with {action = "GetAll", controller = "Clients"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[MechanicApp.Shared.Client]]] GetAll() on controller MechanicApp.Controllers.ClientsController (MechanicApp).
+2024-05-19 17:07:34.255 +02:00 [INF] Executing action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) - Validation state: "Valid"
+2024-05-19 17:07:35.037 +02:00 [INF] Executed DbCommand (12ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "c"."ClientId", "c"."Address", "c"."Email", "c"."Name"
+FROM "Clients" AS "c"
+2024-05-19 17:07:35.059 +02:00 [INF] Executed action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 796.7201ms.
+2024-05-19 17:07:35.067 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[MechanicApp.Shared.Client, MechanicApp.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-05-19 17:07:35.094 +02:00 [INF] Executed action MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) in 944.9019ms
+2024-05-19 17:07:35.095 +02:00 [INF] Executed endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 17:07:35.098 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8080/clients - 200 null application/json; charset=utf-8 1023.5858ms
+2024-05-19 17:07:38.836 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8080/clients - null null
+2024-05-19 17:07:38.841 +02:00 [INF] Executing endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 17:07:38.842 +02:00 [INF] Route matched with {action = "GetAll", controller = "Clients"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[MechanicApp.Shared.Client]]] GetAll() on controller MechanicApp.Controllers.ClientsController (MechanicApp).
+2024-05-19 17:07:38.844 +02:00 [INF] Executing action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) - Validation state: "Valid"
+2024-05-19 17:07:38.847 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "c"."ClientId", "c"."Address", "c"."Email", "c"."Name"
+FROM "Clients" AS "c"
+2024-05-19 17:07:38.849 +02:00 [INF] Executed action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 3.9113ms.
+2024-05-19 17:07:38.851 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[MechanicApp.Shared.Client, MechanicApp.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-05-19 17:07:38.853 +02:00 [INF] Executed action MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) in 9.2958ms
+2024-05-19 17:07:38.854 +02:00 [INF] Executed endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 17:07:38.856 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8080/clients - 200 null application/json; charset=utf-8 20.1318ms
+2024-05-19 17:07:39.471 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8080/clients - null null
+2024-05-19 17:07:39.474 +02:00 [INF] Executing endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 17:07:39.475 +02:00 [INF] Route matched with {action = "GetAll", controller = "Clients"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[MechanicApp.Shared.Client]]] GetAll() on controller MechanicApp.Controllers.ClientsController (MechanicApp).
+2024-05-19 17:07:39.477 +02:00 [INF] Executing action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) - Validation state: "Valid"
+2024-05-19 17:07:39.479 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "c"."ClientId", "c"."Address", "c"."Email", "c"."Name"
+FROM "Clients" AS "c"
+2024-05-19 17:07:39.481 +02:00 [INF] Executed action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 2.7613ms.
+2024-05-19 17:07:39.483 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[MechanicApp.Shared.Client, MechanicApp.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-05-19 17:07:39.484 +02:00 [INF] Executed action MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) in 6.9019ms
+2024-05-19 17:07:39.485 +02:00 [INF] Executed endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 17:07:39.487 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8080/clients - 200 null application/json; charset=utf-8 15.9489ms
+2024-05-19 17:08:08.268 +02:00 [INF] Application is shutting down...
+2024-05-19 17:10:01.294 +02:00 [INF] Now listening on: http://localhost:8080
+2024-05-19 17:10:01.311 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-19 17:10:01.313 +02:00 [INF] Hosting environment: Development
+2024-05-19 17:10:01.315 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp
+2024-05-19 17:10:26.408 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8080/clients - null null
+2024-05-19 17:10:26.463 +02:00 [WRN] Failed to determine the https port for redirect.
+2024-05-19 17:10:26.467 +02:00 [INF] Executing endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 17:10:26.483 +02:00 [INF] Route matched with {action = "GetAll", controller = "Clients"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[MechanicApp.Shared.Client]]] GetAll() on controller MechanicApp.Controllers.ClientsController (MechanicApp).
+2024-05-19 17:10:26.603 +02:00 [INF] Executing action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) - Validation state: "Valid"
+2024-05-19 17:10:27.370 +02:00 [INF] Executed DbCommand (12ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "c"."ClientId", "c"."Address", "c"."Email", "c"."Name"
+FROM "Clients" AS "c"
+2024-05-19 17:10:27.395 +02:00 [INF] Executed action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 787.2707ms.
+2024-05-19 17:10:27.403 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[MechanicApp.Shared.Client, MechanicApp.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-05-19 17:10:27.430 +02:00 [INF] Executed action MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) in 941.988ms
+2024-05-19 17:10:27.432 +02:00 [INF] Executed endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 17:10:27.435 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8080/clients - 200 null application/json; charset=utf-8 1029.099ms
+2024-05-19 17:50:20.785 +02:00 [INF] Application is shutting down...
+2024-05-19 17:51:03.528 +02:00 [INF] Now listening on: http://localhost:8080
+2024-05-19 17:51:03.545 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-19 17:51:03.547 +02:00 [INF] Hosting environment: Development
+2024-05-19 17:51:03.548 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp
+2024-05-19 17:51:23.992 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8080/Clients - null null
+2024-05-19 17:51:24.044 +02:00 [WRN] Failed to determine the https port for redirect.
+2024-05-19 17:51:24.049 +02:00 [INF] Executing endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 17:51:24.066 +02:00 [INF] Route matched with {action = "GetAll", controller = "Clients"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[MechanicApp.Shared.Client]]] GetAll() on controller MechanicApp.Controllers.ClientsController (MechanicApp).
+2024-05-19 17:51:24.196 +02:00 [INF] Executing action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) - Validation state: "Valid"
+2024-05-19 17:51:25.063 +02:00 [INF] Executed DbCommand (14ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "c"."ClientId", "c"."Address", "c"."Email", "c"."Name"
+FROM "Clients" AS "c"
+2024-05-19 17:51:25.088 +02:00 [INF] Executed action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 885.0695ms.
+2024-05-19 17:51:25.098 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[MechanicApp.Shared.Client, MechanicApp.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-05-19 17:51:25.127 +02:00 [INF] Executed action MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) in 1054.9562ms
+2024-05-19 17:51:25.128 +02:00 [INF] Executed endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 17:51:25.131 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8080/Clients - 200 null application/json; charset=utf-8 1140.6648ms
+2024-05-19 17:51:30.671 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8080/Clients - null null
+2024-05-19 17:51:30.676 +02:00 [INF] Executing endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 17:51:30.677 +02:00 [INF] Route matched with {action = "GetAll", controller = "Clients"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[MechanicApp.Shared.Client]]] GetAll() on controller MechanicApp.Controllers.ClientsController (MechanicApp).
+2024-05-19 17:51:30.680 +02:00 [INF] Executing action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) - Validation state: "Valid"
+2024-05-19 17:51:30.683 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "c"."ClientId", "c"."Address", "c"."Email", "c"."Name"
+FROM "Clients" AS "c"
+2024-05-19 17:51:30.686 +02:00 [INF] Executed action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 5.334ms.
+2024-05-19 17:51:30.688 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[MechanicApp.Shared.Client, MechanicApp.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-05-19 17:51:30.690 +02:00 [INF] Executed action MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) in 10.8521ms
+2024-05-19 17:51:30.692 +02:00 [INF] Executed endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 17:51:30.693 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8080/Clients - 200 null application/json; charset=utf-8 22.5409ms
+2024-05-19 17:53:15.238 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8080/Clients - null null
+2024-05-19 17:53:15.308 +02:00 [INF] Executing endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 17:53:15.309 +02:00 [INF] Route matched with {action = "GetAll", controller = "Clients"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[MechanicApp.Shared.Client]]] GetAll() on controller MechanicApp.Controllers.ClientsController (MechanicApp).
+2024-05-19 17:53:15.311 +02:00 [INF] Executing action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) - Validation state: "Valid"
+2024-05-19 17:53:15.313 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "c"."ClientId", "c"."Address", "c"."Email", "c"."Name"
+FROM "Clients" AS "c"
+2024-05-19 17:53:15.316 +02:00 [INF] Executed action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 3.2944ms.
+2024-05-19 17:53:15.359 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[MechanicApp.Shared.Client, MechanicApp.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-05-19 17:53:15.365 +02:00 [INF] Executed action MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) in 53.6486ms
+2024-05-19 17:53:15.367 +02:00 [INF] Executed endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 17:53:15.370 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8080/Clients - 200 null application/json; charset=utf-8 131.7187ms
+2024-05-19 17:53:15.512 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8080/favicon.ico - null null
+2024-05-19 17:53:15.516 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8080/favicon.ico - 404 0 null 4.4175ms
+2024-05-19 17:53:15.521 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:8080/favicon.ico, Response status code: 404
+2024-05-19 17:54:08.407 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8080/People - null null
+2024-05-19 17:54:08.409 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8080/People - 404 0 null 2.7025ms
+2024-05-19 17:54:08.413 +02:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:8080/People, Response status code: 404
+2024-05-19 17:54:14.744 +02:00 [INF] Application is shutting down...
+2024-05-19 17:57:46.128 +02:00 [INF] Now listening on: http://localhost:8080
+2024-05-19 17:57:46.146 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-19 17:57:46.147 +02:00 [INF] Hosting environment: Development
+2024-05-19 17:57:46.149 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp
+2024-05-19 17:57:53.419 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8080/Clients - null null
+2024-05-19 17:57:53.479 +02:00 [INF] CORS policy execution successful.
+2024-05-19 17:57:53.482 +02:00 [WRN] Failed to determine the https port for redirect.
+2024-05-19 17:57:53.487 +02:00 [INF] Executing endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 17:57:53.505 +02:00 [INF] Route matched with {action = "GetAll", controller = "Clients"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[MechanicApp.Shared.Client]]] GetAll() on controller MechanicApp.Controllers.ClientsController (MechanicApp).
+2024-05-19 17:57:53.661 +02:00 [INF] Executing action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) - Validation state: "Valid"
+2024-05-19 17:57:54.993 +02:00 [INF] Executed DbCommand (13ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "c"."ClientId", "c"."Address", "c"."Email", "c"."Name"
+FROM "Clients" AS "c"
+2024-05-19 17:57:55.053 +02:00 [INF] Executed action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 1385.2391ms.
+2024-05-19 17:57:55.063 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[MechanicApp.Shared.Client, MechanicApp.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-05-19 17:57:55.092 +02:00 [INF] Executed action MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) in 1579.4495ms
+2024-05-19 17:57:55.093 +02:00 [INF] Executed endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 17:57:55.095 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8080/Clients - 200 null application/json; charset=utf-8 1677.687ms
+2024-05-19 17:59:51.684 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8080/Clients - null null
+2024-05-19 17:59:51.691 +02:00 [INF] CORS policy execution successful.
+2024-05-19 17:59:51.692 +02:00 [INF] Executing endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 17:59:51.694 +02:00 [INF] Route matched with {action = "GetAll", controller = "Clients"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[MechanicApp.Shared.Client]]] GetAll() on controller MechanicApp.Controllers.ClientsController (MechanicApp).
+2024-05-19 17:59:51.696 +02:00 [INF] Executing action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) - Validation state: "Valid"
+2024-05-19 17:59:51.700 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "c"."ClientId", "c"."Address", "c"."Email", "c"."Name"
+FROM "Clients" AS "c"
+2024-05-19 17:59:51.703 +02:00 [INF] Executed action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 5.1071ms.
+2024-05-19 17:59:51.705 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[MechanicApp.Shared.Client, MechanicApp.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-05-19 17:59:51.708 +02:00 [INF] Executed action MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) in 11.98ms
+2024-05-19 17:59:51.709 +02:00 [INF] Executed endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 17:59:51.711 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8080/Clients - 200 null application/json; charset=utf-8 26.9796ms
+2024-05-19 18:03:09.647 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8080/Clients - null null
+2024-05-19 18:03:09.651 +02:00 [INF] CORS policy execution successful.
+2024-05-19 18:03:09.653 +02:00 [INF] Executing endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 18:03:09.654 +02:00 [INF] Route matched with {action = "GetAll", controller = "Clients"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[MechanicApp.Shared.Client]]] GetAll() on controller MechanicApp.Controllers.ClientsController (MechanicApp).
+2024-05-19 18:03:09.656 +02:00 [INF] Executing action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) - Validation state: "Valid"
+2024-05-19 18:03:09.658 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "c"."ClientId", "c"."Address", "c"."Email", "c"."Name"
+FROM "Clients" AS "c"
+2024-05-19 18:03:09.660 +02:00 [INF] Executed action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 2.8142ms.
+2024-05-19 18:03:09.662 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[MechanicApp.Shared.Client, MechanicApp.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-05-19 18:03:09.664 +02:00 [INF] Executed action MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) in 8.1297ms
+2024-05-19 18:03:09.665 +02:00 [INF] Executed endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 18:03:09.667 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8080/Clients - 200 null application/json; charset=utf-8 19.4126ms
+2024-05-19 18:03:13.370 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8080/Clients - null null
+2024-05-19 18:03:13.374 +02:00 [INF] CORS policy execution successful.
+2024-05-19 18:03:13.374 +02:00 [INF] Executing endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 18:03:13.376 +02:00 [INF] Route matched with {action = "GetAll", controller = "Clients"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[MechanicApp.Shared.Client]]] GetAll() on controller MechanicApp.Controllers.ClientsController (MechanicApp).
+2024-05-19 18:03:13.378 +02:00 [INF] Executing action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) - Validation state: "Valid"
+2024-05-19 18:03:13.380 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "c"."ClientId", "c"."Address", "c"."Email", "c"."Name"
+FROM "Clients" AS "c"
+2024-05-19 18:03:13.383 +02:00 [INF] Executed action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 3.2519ms.
+2024-05-19 18:03:13.385 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[MechanicApp.Shared.Client, MechanicApp.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-05-19 18:03:13.386 +02:00 [INF] Executed action MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) in 7.9854ms
+2024-05-19 18:03:13.388 +02:00 [INF] Executed endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 18:03:13.389 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8080/Clients - 200 null application/json; charset=utf-8 18.6343ms
+2024-05-19 18:04:10.137 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8080/Clients - null null
+2024-05-19 18:04:10.140 +02:00 [INF] CORS policy execution successful.
+2024-05-19 18:04:10.141 +02:00 [INF] Executing endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 18:04:10.142 +02:00 [INF] Route matched with {action = "GetAll", controller = "Clients"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[MechanicApp.Shared.Client]]] GetAll() on controller MechanicApp.Controllers.ClientsController (MechanicApp).
+2024-05-19 18:04:10.146 +02:00 [INF] Executing action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) - Validation state: "Valid"
+2024-05-19 18:04:10.149 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "c"."ClientId", "c"."Address", "c"."Email", "c"."Name"
+FROM "Clients" AS "c"
+2024-05-19 18:04:10.154 +02:00 [INF] Executed action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 5.4323ms.
+2024-05-19 18:04:10.156 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[MechanicApp.Shared.Client, MechanicApp.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-05-19 18:04:10.158 +02:00 [INF] Executed action MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) in 12.1947ms
+2024-05-19 18:04:10.160 +02:00 [INF] Executed endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 18:04:10.162 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8080/Clients - 200 null application/json; charset=utf-8 25.3716ms
+2024-05-19 18:11:25.863 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8080/Clients - null null
+2024-05-19 18:11:25.866 +02:00 [INF] CORS policy execution successful.
+2024-05-19 18:11:25.867 +02:00 [INF] Executing endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 18:11:25.868 +02:00 [INF] Route matched with {action = "GetAll", controller = "Clients"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[MechanicApp.Shared.Client]]] GetAll() on controller MechanicApp.Controllers.ClientsController (MechanicApp).
+2024-05-19 18:11:25.871 +02:00 [INF] Executing action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) - Validation state: "Valid"
+2024-05-19 18:11:25.875 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "c"."ClientId", "c"."Address", "c"."Email", "c"."Name"
+FROM "Clients" AS "c"
+2024-05-19 18:11:25.878 +02:00 [INF] Executed action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 5.1239ms.
+2024-05-19 18:11:25.881 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[MechanicApp.Shared.Client, MechanicApp.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-05-19 18:11:25.883 +02:00 [INF] Executed action MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) in 11.4504ms
+2024-05-19 18:11:25.884 +02:00 [INF] Executed endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 18:11:25.889 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8080/Clients - 200 null application/json; charset=utf-8 26.0109ms
+2024-05-19 18:11:39.185 +02:00 [INF] Application is shutting down...
+2024-05-19 18:11:59.224 +02:00 [INF] Now listening on: http://localhost:8080
+2024-05-19 18:11:59.243 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-19 18:11:59.244 +02:00 [INF] Hosting environment: Development
+2024-05-19 18:11:59.245 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp
+2024-05-19 18:12:06.130 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8080/Clients - null null
+2024-05-19 18:12:06.179 +02:00 [INF] CORS policy execution successful.
+2024-05-19 18:12:06.181 +02:00 [WRN] Failed to determine the https port for redirect.
+2024-05-19 18:12:06.185 +02:00 [INF] Executing endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 18:12:06.202 +02:00 [INF] Route matched with {action = "GetAll", controller = "Clients"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[MechanicApp.Shared.Client]]] GetAll() on controller MechanicApp.Controllers.ClientsController (MechanicApp).
+2024-05-19 18:12:06.338 +02:00 [INF] Executing action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) - Validation state: "Valid"
+2024-05-19 18:12:07.326 +02:00 [INF] Executed DbCommand (16ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "c"."ClientId", "c"."Address", "c"."Email", "c"."Name"
+FROM "Clients" AS "c"
+2024-05-19 18:12:07.352 +02:00 [INF] Executed action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 1007.3264ms.
+2024-05-19 18:12:07.362 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[MechanicApp.Shared.Client, MechanicApp.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-05-19 18:12:07.392 +02:00 [INF] Executed action MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) in 1182.0706ms
+2024-05-19 18:12:07.394 +02:00 [INF] Executed endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 18:12:07.397 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8080/Clients - 200 null application/json; charset=utf-8 1267.9961ms
+2024-05-19 18:13:23.206 +02:00 [INF] Application is shutting down...
+2024-05-19 18:15:00.395 +02:00 [INF] Now listening on: http://localhost:8080
+2024-05-19 18:15:00.414 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-19 18:15:00.416 +02:00 [INF] Hosting environment: Development
+2024-05-19 18:15:00.417 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp
+2024-05-19 18:15:08.384 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8080/Clients - null null
+2024-05-19 18:15:08.437 +02:00 [INF] CORS policy execution successful.
+2024-05-19 18:15:08.440 +02:00 [WRN] Failed to determine the https port for redirect.
+2024-05-19 18:15:08.445 +02:00 [INF] Executing endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 18:15:08.462 +02:00 [INF] Route matched with {action = "GetAll", controller = "Clients"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[MechanicApp.Shared.Client]]] GetAll() on controller MechanicApp.Controllers.ClientsController (MechanicApp).
+2024-05-19 18:15:08.595 +02:00 [INF] Executing action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) - Validation state: "Valid"
+2024-05-19 18:15:09.567 +02:00 [INF] Executed DbCommand (14ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "c"."ClientId", "c"."Address", "c"."Email", "c"."Name"
+FROM "Clients" AS "c"
+2024-05-19 18:15:09.592 +02:00 [INF] Executed action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 991.3071ms.
+2024-05-19 18:15:09.601 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[MechanicApp.Shared.Client, MechanicApp.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-05-19 18:15:09.630 +02:00 [INF] Executed action MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) in 1163.2348ms
+2024-05-19 18:15:09.632 +02:00 [INF] Executed endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 18:15:09.635 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8080/Clients - 200 null application/json; charset=utf-8 1251.5049ms
+2024-05-19 18:15:38.641 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8080/Clients - null null
+2024-05-19 18:15:38.646 +02:00 [INF] CORS policy execution successful.
+2024-05-19 18:15:38.647 +02:00 [INF] Executing endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 18:15:38.649 +02:00 [INF] Route matched with {action = "GetAll", controller = "Clients"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[MechanicApp.Shared.Client]]] GetAll() on controller MechanicApp.Controllers.ClientsController (MechanicApp).
+2024-05-19 18:15:38.651 +02:00 [INF] Executing action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) - Validation state: "Valid"
+2024-05-19 18:15:38.656 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "c"."ClientId", "c"."Address", "c"."Email", "c"."Name"
+FROM "Clients" AS "c"
+2024-05-19 18:15:38.660 +02:00 [INF] Executed action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 5.4842ms.
+2024-05-19 18:15:38.662 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[MechanicApp.Shared.Client, MechanicApp.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-05-19 18:15:38.664 +02:00 [INF] Executed action MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) in 12.9641ms
+2024-05-19 18:15:38.666 +02:00 [INF] Executed endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 18:15:38.670 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8080/Clients - 200 null application/json; charset=utf-8 28.7442ms
+2024-05-19 18:15:59.419 +02:00 [INF] Application is shutting down...
+2024-05-19 18:16:09.331 +02:00 [INF] Now listening on: http://localhost:8080
+2024-05-19 18:16:09.351 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-19 18:16:09.353 +02:00 [INF] Hosting environment: Development
+2024-05-19 18:16:09.354 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp
+2024-05-19 18:16:22.135 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8080/Clients - null null
+2024-05-19 18:16:22.186 +02:00 [INF] CORS policy execution successful.
+2024-05-19 18:16:22.189 +02:00 [WRN] Failed to determine the https port for redirect.
+2024-05-19 18:16:22.193 +02:00 [INF] Executing endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 18:16:22.210 +02:00 [INF] Route matched with {action = "GetAll", controller = "Clients"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[MechanicApp.Shared.Client]]] GetAll() on controller MechanicApp.Controllers.ClientsController (MechanicApp).
+2024-05-19 18:16:22.345 +02:00 [INF] Executing action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) - Validation state: "Valid"
+2024-05-19 18:16:23.301 +02:00 [INF] Executed DbCommand (13ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "c"."ClientId", "c"."Address", "c"."Email", "c"."Name"
+FROM "Clients" AS "c"
+2024-05-19 18:16:23.326 +02:00 [INF] Executed action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 974.8611ms.
+2024-05-19 18:16:23.336 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[MechanicApp.Shared.Client, MechanicApp.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-05-19 18:16:23.363 +02:00 [INF] Executed action MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) in 1147.6812ms
+2024-05-19 18:16:23.365 +02:00 [INF] Executed endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 18:16:23.367 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8080/Clients - 200 null application/json; charset=utf-8 1233.3392ms
+2024-05-19 18:19:10.823 +02:00 [INF] Now listening on: http://localhost:8080
+2024-05-19 18:19:10.850 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-19 18:19:10.851 +02:00 [INF] Hosting environment: Development
+2024-05-19 18:19:10.852 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp
+2024-05-19 18:19:32.056 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8080/Clients - null null
+2024-05-19 18:19:32.106 +02:00 [INF] CORS policy execution successful.
+2024-05-19 18:19:32.108 +02:00 [WRN] Failed to determine the https port for redirect.
+2024-05-19 18:19:32.112 +02:00 [INF] Executing endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 18:19:32.129 +02:00 [INF] Route matched with {action = "GetAll", controller = "Clients"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[MechanicApp.Shared.Client]]] GetAll() on controller MechanicApp.Controllers.ClientsController (MechanicApp).
+2024-05-19 18:19:32.803 +02:00 [INF] Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "c"."ClientId", "c"."Address", "c"."Email", "c"."Name"
+FROM "Clients" AS "c"
+2024-05-19 18:19:32.817 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[MechanicApp.Shared.Client, MechanicApp.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-05-19 18:19:32.837 +02:00 [INF] Executed action MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) in 702.9696ms
+2024-05-19 18:19:32.840 +02:00 [INF] Executed endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 18:19:32.842 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8080/Clients - 200 null application/json; charset=utf-8 787.3839ms
+2024-05-19 18:19:49.254 +02:00 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:8080/Clients - null null
+2024-05-19 18:19:49.258 +02:00 [INF] CORS policy execution successful.
+2024-05-19 18:19:49.260 +02:00 [INF] Request finished HTTP/1.1 OPTIONS http://localhost:8080/Clients - 204 null null 5.8736ms
+2024-05-19 18:19:49.264 +02:00 [INF] Request starting HTTP/1.1 POST http://localhost:8080/Clients - application/json; charset=utf-8 129
+2024-05-19 18:19:49.270 +02:00 [INF] CORS policy execution successful.
+2024-05-19 18:19:49.271 +02:00 [INF] Executing endpoint 'MechanicApp.Controllers.ClientsController.Add (MechanicApp)'
+2024-05-19 18:19:49.279 +02:00 [INF] Route matched with {action = "Add", controller = "Clients"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Add(MechanicApp.Shared.Client) on controller MechanicApp.Controllers.ClientsController (MechanicApp).
+2024-05-19 18:19:49.389 +02:00 [INF] Executed DbCommand (4ms) [Parameters=[@__get_Item_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "c"."ClientId", "c"."Address", "c"."Email", "c"."Name"
+FROM "Clients" AS "c"
+WHERE "c"."ClientId" = @__get_Item_0
+LIMIT 1
+2024-05-19 18:19:49.392 +02:00 [INF] Client retrieved: null
+2024-05-19 18:19:49.509 +02:00 [INF] Executed DbCommand (7ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?' (Size = 27), @p2='?' (Size = 13), @p3='?' (Size = 4)], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "Clients" ("ClientId", "Address", "Email", "Name")
+VALUES (@p0, @p1, @p2, @p3);
+2024-05-19 18:19:49.517 +02:00 [INF] Client added
+2024-05-19 18:19:49.520 +02:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2024-05-19 18:19:49.522 +02:00 [INF] Executed action MechanicApp.Controllers.ClientsController.Add (MechanicApp) in 240.0331ms
+2024-05-19 18:19:49.523 +02:00 [INF] Executed endpoint 'MechanicApp.Controllers.ClientsController.Add (MechanicApp)'
+2024-05-19 18:19:49.524 +02:00 [INF] Request finished HTTP/1.1 POST http://localhost:8080/Clients - 200 0 null 259.7971ms
+2024-05-19 18:19:49.561 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8080/Clients - null null
+2024-05-19 18:19:49.564 +02:00 [INF] CORS policy execution successful.
+2024-05-19 18:19:49.565 +02:00 [INF] Executing endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 18:19:49.566 +02:00 [INF] Route matched with {action = "GetAll", controller = "Clients"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[MechanicApp.Shared.Client]]] GetAll() on controller MechanicApp.Controllers.ClientsController (MechanicApp).
+2024-05-19 18:19:49.570 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "c"."ClientId", "c"."Address", "c"."Email", "c"."Name"
+FROM "Clients" AS "c"
+2024-05-19 18:19:49.575 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[MechanicApp.Shared.Client, MechanicApp.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-05-19 18:19:49.578 +02:00 [INF] Executed action MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) in 8.8017ms
+2024-05-19 18:19:49.580 +02:00 [INF] Executed endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 18:19:49.581 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8080/Clients - 200 null application/json; charset=utf-8 19.8641ms
+2024-05-19 18:20:11.685 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8080/Clients - null null
+2024-05-19 18:20:11.688 +02:00 [INF] CORS policy execution successful.
+2024-05-19 18:20:11.689 +02:00 [INF] Executing endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 18:20:11.690 +02:00 [INF] Route matched with {action = "GetAll", controller = "Clients"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[MechanicApp.Shared.Client]]] GetAll() on controller MechanicApp.Controllers.ClientsController (MechanicApp).
+2024-05-19 18:20:11.693 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "c"."ClientId", "c"."Address", "c"."Email", "c"."Name"
+FROM "Clients" AS "c"
+2024-05-19 18:20:11.696 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[MechanicApp.Shared.Client, MechanicApp.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-05-19 18:20:11.698 +02:00 [INF] Executed action MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) in 5.6325ms
+2024-05-19 18:20:11.700 +02:00 [INF] Executed endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 18:20:11.701 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8080/Clients - 200 null application/json; charset=utf-8 16.6593ms
+2024-05-19 18:20:14.776 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8080/Clients - null null
+2024-05-19 18:20:14.778 +02:00 [INF] CORS policy execution successful.
+2024-05-19 18:20:14.779 +02:00 [INF] Executing endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 18:20:14.780 +02:00 [INF] Route matched with {action = "GetAll", controller = "Clients"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[MechanicApp.Shared.Client]]] GetAll() on controller MechanicApp.Controllers.ClientsController (MechanicApp).
+2024-05-19 18:20:14.783 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "c"."ClientId", "c"."Address", "c"."Email", "c"."Name"
+FROM "Clients" AS "c"
+2024-05-19 18:20:14.785 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[MechanicApp.Shared.Client, MechanicApp.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-05-19 18:20:14.787 +02:00 [INF] Executed action MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) in 4.1677ms
+2024-05-19 18:20:14.788 +02:00 [INF] Executed endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 18:20:14.790 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8080/Clients - 200 null application/json; charset=utf-8 14.041ms
+2024-05-19 18:20:18.825 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8080/Clients - null null
+2024-05-19 18:20:18.828 +02:00 [INF] CORS policy execution successful.
+2024-05-19 18:20:18.828 +02:00 [INF] Executing endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 18:20:18.829 +02:00 [INF] Route matched with {action = "GetAll", controller = "Clients"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[MechanicApp.Shared.Client]]] GetAll() on controller MechanicApp.Controllers.ClientsController (MechanicApp).
+2024-05-19 18:20:18.833 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "c"."ClientId", "c"."Address", "c"."Email", "c"."Name"
+FROM "Clients" AS "c"
+2024-05-19 18:20:18.835 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[MechanicApp.Shared.Client, MechanicApp.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-05-19 18:20:18.836 +02:00 [INF] Executed action MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) in 4.3181ms
+2024-05-19 18:20:18.838 +02:00 [INF] Executed endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 18:20:18.840 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8080/Clients - 200 null application/json; charset=utf-8 14.5333ms
+2024-05-19 18:22:47.604 +02:00 [INF] Application is shutting down...
+2024-05-19 18:23:00.674 +02:00 [INF] Now listening on: http://localhost:8080
+2024-05-19 18:23:00.692 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-19 18:23:00.694 +02:00 [INF] Hosting environment: Development
+2024-05-19 18:23:00.695 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp
+2024-05-19 18:23:32.860 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8080/Clients - null null
+2024-05-19 18:23:32.911 +02:00 [INF] CORS policy execution successful.
+2024-05-19 18:23:32.914 +02:00 [WRN] Failed to determine the https port for redirect.
+2024-05-19 18:23:32.919 +02:00 [INF] Executing endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 18:23:32.937 +02:00 [INF] Route matched with {action = "GetAll", controller = "Clients"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[MechanicApp.Shared.Client]]] GetAll() on controller MechanicApp.Controllers.ClientsController (MechanicApp).
+2024-05-19 18:23:33.070 +02:00 [INF] Executing action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) - Validation state: "Valid"
+2024-05-19 18:23:34.059 +02:00 [INF] Executed DbCommand (14ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "c"."ClientId", "c"."Address", "c"."Email", "c"."Name"
+FROM "Clients" AS "c"
+2024-05-19 18:23:34.144 +02:00 [INF] Executed action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 1067.1842ms.
+2024-05-19 18:23:34.154 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[MechanicApp.Shared.Client, MechanicApp.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-05-19 18:23:34.183 +02:00 [INF] Executed action MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) in 1240.9015ms
+2024-05-19 18:23:34.185 +02:00 [INF] Executed endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 18:23:34.187 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8080/Clients - 200 null application/json; charset=utf-8 1328.3843ms
+2024-05-19 18:23:35.210 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8080/Clients - null null
+2024-05-19 18:23:35.216 +02:00 [INF] CORS policy execution successful.
+2024-05-19 18:23:35.217 +02:00 [INF] Executing endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 18:23:35.218 +02:00 [INF] Route matched with {action = "GetAll", controller = "Clients"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[MechanicApp.Shared.Client]]] GetAll() on controller MechanicApp.Controllers.ClientsController (MechanicApp).
+2024-05-19 18:23:35.220 +02:00 [INF] Executing action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) - Validation state: "Valid"
+2024-05-19 18:23:35.223 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "c"."ClientId", "c"."Address", "c"."Email", "c"."Name"
+FROM "Clients" AS "c"
+2024-05-19 18:23:35.227 +02:00 [INF] Executed action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 4.5489ms.
+2024-05-19 18:23:35.229 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[MechanicApp.Shared.Client, MechanicApp.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-05-19 18:23:35.232 +02:00 [INF] Executed action MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) in 11.5362ms
+2024-05-19 18:23:35.233 +02:00 [INF] Executed endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 18:23:35.235 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8080/Clients - 200 null application/json; charset=utf-8 24.8943ms
+2024-05-19 18:23:37.808 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8080/Clients - null null
+2024-05-19 18:23:37.812 +02:00 [INF] CORS policy execution successful.
+2024-05-19 18:23:37.814 +02:00 [INF] Executing endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 18:23:37.815 +02:00 [INF] Route matched with {action = "GetAll", controller = "Clients"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[MechanicApp.Shared.Client]]] GetAll() on controller MechanicApp.Controllers.ClientsController (MechanicApp).
+2024-05-19 18:23:37.818 +02:00 [INF] Executing action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) - Validation state: "Valid"
+2024-05-19 18:23:37.820 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "c"."ClientId", "c"."Address", "c"."Email", "c"."Name"
+FROM "Clients" AS "c"
+2024-05-19 18:23:37.822 +02:00 [INF] Executed action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 2.6826ms.
+2024-05-19 18:23:37.824 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[MechanicApp.Shared.Client, MechanicApp.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-05-19 18:23:37.825 +02:00 [INF] Executed action MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) in 7.2658ms
+2024-05-19 18:23:37.826 +02:00 [INF] Executed endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 18:23:37.828 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8080/Clients - 200 null application/json; charset=utf-8 19.6156ms
+2024-05-19 18:25:56.301 +02:00 [INF] Application is shutting down...
+2024-05-19 18:26:03.956 +02:00 [INF] Now listening on: http://localhost:8080
+2024-05-19 18:26:03.975 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-19 18:26:03.976 +02:00 [INF] Hosting environment: Development
+2024-05-19 18:26:03.977 +02:00 [INF] Content root path: C:\Users\Antosz\Desktop\MechanicAppSolution\MechanicApp
+2024-05-19 18:26:08.594 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8080/Clients/28a8f541-2774-482e-bd05-3a5cd609ea65 - null null
+2024-05-19 18:26:08.650 +02:00 [INF] CORS policy execution successful.
+2024-05-19 18:26:08.652 +02:00 [WRN] Failed to determine the https port for redirect.
+2024-05-19 18:26:08.656 +02:00 [INF] Executing endpoint 'MechanicApp.Controllers.ClientsController.Get (MechanicApp)'
+2024-05-19 18:26:08.678 +02:00 [INF] Route matched with {action = "Get", controller = "Clients"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[MechanicApp.Shared.Client]] Get(System.Guid) on controller MechanicApp.Controllers.ClientsController (MechanicApp).
+2024-05-19 18:26:08.818 +02:00 [INF] Executing action method MechanicApp.Controllers.ClientsController.Get (MechanicApp) - Validation state: "Valid"
+2024-05-19 18:26:10.027 +02:00 [INF] Executed DbCommand (51ms) [Parameters=[@__get_Item_0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+SELECT "c"."ClientId", "c"."Address", "c"."Email", "c"."Name"
+FROM "Clients" AS "c"
+WHERE "c"."ClientId" = @__get_Item_0
+LIMIT 1
+2024-05-19 18:26:10.120 +02:00 [INF] Client retrieved: {"LazyLoader":{"$type":"LazyLoader"},"ClientId":"28a8f541-2774-482e-bd05-3a5cd609ea65","Name":"alma","Address":"1174 budapest perem utca 10","Email":"alma@bela.com","$type":"ClientProxy"}
+2024-05-19 18:26:10.133 +02:00 [INF] Executed action method MechanicApp.Controllers.ClientsController.Get (MechanicApp), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 1308.439ms.
+2024-05-19 18:26:10.143 +02:00 [INF] Executing OkObjectResult, writing value of type 'Castle.Proxies.ClientProxy'.
+2024-05-19 18:26:10.172 +02:00 [INF] Executed action MechanicApp.Controllers.ClientsController.Get (MechanicApp) in 1488.3077ms
+2024-05-19 18:26:10.174 +02:00 [INF] Executed endpoint 'MechanicApp.Controllers.ClientsController.Get (MechanicApp)'
+2024-05-19 18:26:10.177 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8080/Clients/28a8f541-2774-482e-bd05-3a5cd609ea65 - 200 null application/json; charset=utf-8 1585.1832ms
+2024-05-19 18:26:22.499 +02:00 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:8080/Clients/28a8f541-2774-482e-bd05-3a5cd609ea65 - null null
+2024-05-19 18:26:22.504 +02:00 [INF] CORS policy execution successful.
+2024-05-19 18:26:22.506 +02:00 [INF] Request finished HTTP/1.1 OPTIONS http://localhost:8080/Clients/28a8f541-2774-482e-bd05-3a5cd609ea65 - 204 null null 6.4122ms
+2024-05-19 18:26:22.510 +02:00 [INF] Request starting HTTP/1.1 PUT http://localhost:8080/Clients/28a8f541-2774-482e-bd05-3a5cd609ea65 - application/json; charset=utf-8 130
+2024-05-19 18:26:22.516 +02:00 [INF] CORS policy execution successful.
+2024-05-19 18:26:22.517 +02:00 [INF] Executing endpoint 'MechanicApp.Controllers.ClientsController.Update (MechanicApp)'
+2024-05-19 18:26:22.522 +02:00 [INF] Route matched with {action = "Update", controller = "Clients"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Update(System.Guid, MechanicApp.Shared.Client) on controller MechanicApp.Controllers.ClientsController (MechanicApp).
+2024-05-19 18:26:22.546 +02:00 [INF] Executing action method MechanicApp.Controllers.ClientsController.Update (MechanicApp) - Validation state: "Valid"
+2024-05-19 18:26:22.550 +02:00 [INF] Client retrieved: {"LazyLoader":{"$type":"LazyLoader"},"ClientId":"28a8f541-2774-482e-bd05-3a5cd609ea65","Name":"alma","Address":"1174 budapest perem utca 10","Email":"alma@bela.com","$type":"ClientProxy"}
+2024-05-19 18:26:22.557 +02:00 [INF] Client retrieved: {"LazyLoader":{"$type":"LazyLoader"},"ClientId":"28a8f541-2774-482e-bd05-3a5cd609ea65","Name":"alma","Address":"1174 budapest perem utca 10","Email":"alma@bela.com","$type":"ClientProxy"}
+2024-05-19 18:26:22.689 +02:00 [INF] Executed DbCommand (2ms) [Parameters=[@p1='?' (DbType = Guid), @p0='?' (Size = 14)], CommandType='"Text"', CommandTimeout='30']
+UPDATE "Clients" SET "Email" = @p0
+WHERE "ClientId" = @p1
+RETURNING 1;
+2024-05-19 18:26:22.708 +02:00 [INF] Executed action method MechanicApp.Controllers.ClientsController.Update (MechanicApp), returned result Microsoft.AspNetCore.Mvc.OkResult in 160.2489ms.
+2024-05-19 18:26:22.714 +02:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2024-05-19 18:26:22.716 +02:00 [INF] Executed action MechanicApp.Controllers.ClientsController.Update (MechanicApp) in 190.9303ms
+2024-05-19 18:26:22.718 +02:00 [INF] Executed endpoint 'MechanicApp.Controllers.ClientsController.Update (MechanicApp)'
+2024-05-19 18:26:22.720 +02:00 [INF] Request finished HTTP/1.1 PUT http://localhost:8080/Clients/28a8f541-2774-482e-bd05-3a5cd609ea65 - 200 0 null 209.6482ms
+2024-05-19 18:26:22.758 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8080/Clients - null null
+2024-05-19 18:26:22.762 +02:00 [INF] CORS policy execution successful.
+2024-05-19 18:26:22.764 +02:00 [INF] Executing endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 18:26:22.768 +02:00 [INF] Route matched with {action = "GetAll", controller = "Clients"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[MechanicApp.Shared.Client]]] GetAll() on controller MechanicApp.Controllers.ClientsController (MechanicApp).
+2024-05-19 18:26:22.770 +02:00 [INF] Executing action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) - Validation state: "Valid"
+2024-05-19 18:26:22.782 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "c"."ClientId", "c"."Address", "c"."Email", "c"."Name"
+FROM "Clients" AS "c"
+2024-05-19 18:26:22.785 +02:00 [INF] Executed action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 13.2977ms.
+2024-05-19 18:26:22.787 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[MechanicApp.Shared.Client, MechanicApp.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-05-19 18:26:22.793 +02:00 [INF] Executed action MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) in 22.2704ms
+2024-05-19 18:26:22.795 +02:00 [INF] Executed endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 18:26:22.797 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8080/Clients - 200 null application/json; charset=utf-8 38.4756ms
+2024-05-19 18:26:26.371 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8080/Clients/28a8f541-2774-482e-bd05-3a5cd609ea65 - null null
+2024-05-19 18:26:26.374 +02:00 [INF] CORS policy execution successful.
+2024-05-19 18:26:26.375 +02:00 [INF] Executing endpoint 'MechanicApp.Controllers.ClientsController.Get (MechanicApp)'
+2024-05-19 18:26:26.376 +02:00 [INF] Route matched with {action = "Get", controller = "Clients"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[MechanicApp.Shared.Client]] Get(System.Guid) on controller MechanicApp.Controllers.ClientsController (MechanicApp).
+2024-05-19 18:26:26.378 +02:00 [INF] Executing action method MechanicApp.Controllers.ClientsController.Get (MechanicApp) - Validation state: "Valid"
+2024-05-19 18:26:26.380 +02:00 [INF] Client retrieved: {"LazyLoader":{"$type":"LazyLoader"},"ClientId":"28a8f541-2774-482e-bd05-3a5cd609ea65","Name":"alma","Address":"1174 budapest perem utca 10","Email":"alma@jozsi.com","$type":"ClientProxy"}
+2024-05-19 18:26:26.386 +02:00 [INF] Executed action method MechanicApp.Controllers.ClientsController.Get (MechanicApp), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 5.6435ms.
+2024-05-19 18:26:26.387 +02:00 [INF] Executing OkObjectResult, writing value of type 'Castle.Proxies.ClientProxy'.
+2024-05-19 18:26:26.389 +02:00 [INF] Executed action MechanicApp.Controllers.ClientsController.Get (MechanicApp) in 10.623ms
+2024-05-19 18:26:26.390 +02:00 [INF] Executed endpoint 'MechanicApp.Controllers.ClientsController.Get (MechanicApp)'
+2024-05-19 18:26:26.392 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8080/Clients/28a8f541-2774-482e-bd05-3a5cd609ea65 - 200 null application/json; charset=utf-8 20.768ms
+2024-05-19 18:26:30.290 +02:00 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:8080/Clients/28a8f541-2774-482e-bd05-3a5cd609ea65 - null null
+2024-05-19 18:26:30.293 +02:00 [INF] CORS policy execution successful.
+2024-05-19 18:26:30.294 +02:00 [INF] Request finished HTTP/1.1 OPTIONS http://localhost:8080/Clients/28a8f541-2774-482e-bd05-3a5cd609ea65 - 204 null null 3.2329ms
+2024-05-19 18:26:30.297 +02:00 [INF] Request starting HTTP/1.1 PUT http://localhost:8080/Clients/28a8f541-2774-482e-bd05-3a5cd609ea65 - application/json; charset=utf-8 120
+2024-05-19 18:26:30.300 +02:00 [INF] CORS policy execution successful.
+2024-05-19 18:26:30.301 +02:00 [INF] Executing endpoint 'MechanicApp.Controllers.ClientsController.Update (MechanicApp)'
+2024-05-19 18:26:30.302 +02:00 [INF] Route matched with {action = "Update", controller = "Clients"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Update(System.Guid, MechanicApp.Shared.Client) on controller MechanicApp.Controllers.ClientsController (MechanicApp).
+2024-05-19 18:26:30.311 +02:00 [INF] Executing action method MechanicApp.Controllers.ClientsController.Update (MechanicApp) - Validation state: "Valid"
+2024-05-19 18:26:30.313 +02:00 [INF] Client retrieved: {"LazyLoader":{"$type":"LazyLoader"},"ClientId":"28a8f541-2774-482e-bd05-3a5cd609ea65","Name":"alma","Address":"1174 budapest perem utca 10","Email":"alma@jozsi.com","$type":"ClientProxy"}
+2024-05-19 18:26:30.319 +02:00 [INF] Client retrieved: {"LazyLoader":{"$type":"LazyLoader"},"ClientId":"28a8f541-2774-482e-bd05-3a5cd609ea65","Name":"alma","Address":"1174 budapest perem utca 10","Email":"alma@jozsi.com","$type":"ClientProxy"}
+2024-05-19 18:26:30.358 +02:00 [INF] Executed DbCommand (33ms) [Parameters=[@p1='?' (DbType = Guid), @p0='?' (Size = 17)], CommandType='"Text"', CommandTimeout='30']
+UPDATE "Clients" SET "Address" = @p0
+WHERE "ClientId" = @p1
+RETURNING 1;
+2024-05-19 18:26:30.368 +02:00 [INF] Executed action method MechanicApp.Controllers.ClientsController.Update (MechanicApp), returned result Microsoft.AspNetCore.Mvc.OkResult in 54.8958ms.
+2024-05-19 18:26:30.369 +02:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2024-05-19 18:26:30.370 +02:00 [INF] Executed action MechanicApp.Controllers.ClientsController.Update (MechanicApp) in 64.5435ms
+2024-05-19 18:26:30.371 +02:00 [INF] Executed endpoint 'MechanicApp.Controllers.ClientsController.Update (MechanicApp)'
+2024-05-19 18:26:30.373 +02:00 [INF] Request finished HTTP/1.1 PUT http://localhost:8080/Clients/28a8f541-2774-482e-bd05-3a5cd609ea65 - 200 0 null 75.0615ms
+2024-05-19 18:26:30.395 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8080/Clients - null null
+2024-05-19 18:26:30.397 +02:00 [INF] CORS policy execution successful.
+2024-05-19 18:26:30.399 +02:00 [INF] Executing endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 18:26:30.400 +02:00 [INF] Route matched with {action = "GetAll", controller = "Clients"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[MechanicApp.Shared.Client]]] GetAll() on controller MechanicApp.Controllers.ClientsController (MechanicApp).
+2024-05-19 18:26:30.402 +02:00 [INF] Executing action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) - Validation state: "Valid"
+2024-05-19 18:26:30.404 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "c"."ClientId", "c"."Address", "c"."Email", "c"."Name"
+FROM "Clients" AS "c"
+2024-05-19 18:26:30.406 +02:00 [INF] Executed action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 3.2162ms.
+2024-05-19 18:26:30.408 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[MechanicApp.Shared.Client, MechanicApp.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-05-19 18:26:30.409 +02:00 [INF] Executed action MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) in 7.5272ms
+2024-05-19 18:26:30.411 +02:00 [INF] Executed endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 18:26:30.412 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8080/Clients - 200 null application/json; charset=utf-8 17.7668ms
+2024-05-19 18:26:31.470 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8080/Clients/28a8f541-2774-482e-bd05-3a5cd609ea65 - null null
+2024-05-19 18:26:31.473 +02:00 [INF] CORS policy execution successful.
+2024-05-19 18:26:31.474 +02:00 [INF] Executing endpoint 'MechanicApp.Controllers.ClientsController.Get (MechanicApp)'
+2024-05-19 18:26:31.475 +02:00 [INF] Route matched with {action = "Get", controller = "Clients"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[MechanicApp.Shared.Client]] Get(System.Guid) on controller MechanicApp.Controllers.ClientsController (MechanicApp).
+2024-05-19 18:26:31.477 +02:00 [INF] Executing action method MechanicApp.Controllers.ClientsController.Get (MechanicApp) - Validation state: "Valid"
+2024-05-19 18:26:31.479 +02:00 [INF] Client retrieved: {"LazyLoader":{"$type":"LazyLoader"},"ClientId":"28a8f541-2774-482e-bd05-3a5cd609ea65","Name":"alma","Address":"1174 budfodaihfsd","Email":"alma@jozsi.com","$type":"ClientProxy"}
+2024-05-19 18:26:31.484 +02:00 [INF] Executed action method MechanicApp.Controllers.ClientsController.Get (MechanicApp), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 5.7592ms.
+2024-05-19 18:26:31.486 +02:00 [INF] Executing OkObjectResult, writing value of type 'Castle.Proxies.ClientProxy'.
+2024-05-19 18:26:31.487 +02:00 [INF] Executed action MechanicApp.Controllers.ClientsController.Get (MechanicApp) in 10.5475ms
+2024-05-19 18:26:31.489 +02:00 [INF] Executed endpoint 'MechanicApp.Controllers.ClientsController.Get (MechanicApp)'
+2024-05-19 18:26:31.490 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8080/Clients/28a8f541-2774-482e-bd05-3a5cd609ea65 - 200 null application/json; charset=utf-8 20.5761ms
+2024-05-19 18:26:32.613 +02:00 [INF] Request starting HTTP/1.1 OPTIONS http://localhost:8080/Clients/28a8f541-2774-482e-bd05-3a5cd609ea65 - null null
+2024-05-19 18:26:32.616 +02:00 [INF] CORS policy execution successful.
+2024-05-19 18:26:32.617 +02:00 [INF] Request finished HTTP/1.1 OPTIONS http://localhost:8080/Clients/28a8f541-2774-482e-bd05-3a5cd609ea65 - 204 null null 4.1253ms
+2024-05-19 18:26:32.620 +02:00 [INF] Request starting HTTP/1.1 DELETE http://localhost:8080/Clients/28a8f541-2774-482e-bd05-3a5cd609ea65 - null null
+2024-05-19 18:26:32.623 +02:00 [INF] CORS policy execution successful.
+2024-05-19 18:26:32.624 +02:00 [INF] Executing endpoint 'MechanicApp.Controllers.ClientsController.Delete (MechanicApp)'
+2024-05-19 18:26:32.630 +02:00 [INF] Route matched with {action = "Delete", controller = "Clients"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Delete(System.Guid) on controller MechanicApp.Controllers.ClientsController (MechanicApp).
+2024-05-19 18:26:32.633 +02:00 [INF] Executing action method MechanicApp.Controllers.ClientsController.Delete (MechanicApp) - Validation state: "Valid"
+2024-05-19 18:26:32.636 +02:00 [INF] Client retrieved: {"LazyLoader":{"$type":"LazyLoader"},"ClientId":"28a8f541-2774-482e-bd05-3a5cd609ea65","Name":"alma","Address":"1174 budfodaihfsd","Email":"alma@jozsi.com","$type":"ClientProxy"}
+2024-05-19 18:26:32.642 +02:00 [INF] Client retrieved: {"LazyLoader":{"$type":"LazyLoader"},"ClientId":"28a8f541-2774-482e-bd05-3a5cd609ea65","Name":"alma","Address":"1174 budfodaihfsd","Email":"alma@jozsi.com","$type":"ClientProxy"}
+2024-05-19 18:26:32.665 +02:00 [INF] Executed DbCommand (2ms) [Parameters=[@p0='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+DELETE FROM "Clients"
+WHERE "ClientId" = @p0
+RETURNING 1;
+2024-05-19 18:26:32.677 +02:00 [INF] Executed action method MechanicApp.Controllers.ClientsController.Delete (MechanicApp), returned result Microsoft.AspNetCore.Mvc.OkResult in 42.1152ms.
+2024-05-19 18:26:32.679 +02:00 [INF] Executing StatusCodeResult, setting HTTP status code 200
+2024-05-19 18:26:32.680 +02:00 [INF] Executed action MechanicApp.Controllers.ClientsController.Delete (MechanicApp) in 47.023ms
+2024-05-19 18:26:32.681 +02:00 [INF] Executed endpoint 'MechanicApp.Controllers.ClientsController.Delete (MechanicApp)'
+2024-05-19 18:26:32.683 +02:00 [INF] Request finished HTTP/1.1 DELETE http://localhost:8080/Clients/28a8f541-2774-482e-bd05-3a5cd609ea65 - 200 0 null 62.3045ms
+2024-05-19 18:26:32.706 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:8080/Clients - null null
+2024-05-19 18:26:32.708 +02:00 [INF] CORS policy execution successful.
+2024-05-19 18:26:32.709 +02:00 [INF] Executing endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 18:26:32.710 +02:00 [INF] Route matched with {action = "GetAll", controller = "Clients"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[MechanicApp.Shared.Client]]] GetAll() on controller MechanicApp.Controllers.ClientsController (MechanicApp).
+2024-05-19 18:26:32.712 +02:00 [INF] Executing action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) - Validation state: "Valid"
+2024-05-19 18:26:32.714 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "c"."ClientId", "c"."Address", "c"."Email", "c"."Name"
+FROM "Clients" AS "c"
+2024-05-19 18:26:32.717 +02:00 [INF] Executed action method MechanicApp.Controllers.ClientsController.GetAll (MechanicApp), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 3.5309ms.
+2024-05-19 18:26:32.719 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[MechanicApp.Shared.Client, MechanicApp.Shared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-05-19 18:26:32.720 +02:00 [INF] Executed action MechanicApp.Controllers.ClientsController.GetAll (MechanicApp) in 8.1829ms
+2024-05-19 18:26:32.722 +02:00 [INF] Executed endpoint 'MechanicApp.Controllers.ClientsController.GetAll (MechanicApp)'
+2024-05-19 18:26:32.723 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:8080/Clients - 200 null application/json; charset=utf-8 17.3233ms
