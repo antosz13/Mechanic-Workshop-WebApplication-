@@ -83,9 +83,8 @@ namespace MechanicApp.Controllers
             return Ok();
         }
 
-        /*
-        [HttpGet("{id:guid}/items")]
-        public async Task<ActionResult<List<Job>>> GetItemsOfPerson(Guid id)
+        [HttpGet("{id:guid}/jobs")]
+        public async Task<ActionResult<List<Job>>> GetJobsOfClient(Guid id)
         {
             var client = await _clientService.Get(id);
 
@@ -94,10 +93,7 @@ namespace MechanicApp.Controllers
                 return NotFound();
             }
 
-            var result = await _clientService.GetJobsOfClient(id);
-
-            return Ok(result);
+            return Ok(await _clientService.GetJobsOfClient(id));
         }
-        */
     }
 }

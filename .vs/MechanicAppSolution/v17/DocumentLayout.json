@@ -1,67 +1,23 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{EF9DA273-1AFD-487A-AF9F-02FEA22CC9FF}|MechanicApp.UI\\MechanicApp.UI.csproj|c:\\users\\antosz\\desktop\\mechanicappsolution\\mechanicapp.ui\\pages\\clientdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EF9DA273-1AFD-487A-AF9F-02FEA22CC9FF}|MechanicApp.UI\\MechanicApp.UI.csproj|solutionrelative:mechanicapp.ui\\pages\\clientdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF9DA273-1AFD-487A-AF9F-02FEA22CC9FF}|MechanicApp.UI\\MechanicApp.UI.csproj|c:\\users\\antosz\\desktop\\mechanicappsolution\\mechanicapp.ui\\pages\\clintslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EF9DA273-1AFD-487A-AF9F-02FEA22CC9FF}|MechanicApp.UI\\MechanicApp.UI.csproj|solutionrelative:mechanicapp.ui\\pages\\clintslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF9DA273-1AFD-487A-AF9F-02FEA22CC9FF}|MechanicApp.UI\\MechanicApp.UI.csproj|c:\\users\\antosz\\desktop\\mechanicappsolution\\mechanicapp.ui\\components\\clientform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EF9DA273-1AFD-487A-AF9F-02FEA22CC9FF}|MechanicApp.UI\\MechanicApp.UI.csproj|solutionrelative:mechanicapp.ui\\components\\clientform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "DockedHeight": 60,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ClintsList.razor",
-              "DocumentMoniker": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\Pages\\ClintsList.razor",
-              "RelativeDocumentMoniker": "MechanicApp.UI\\Pages\\ClintsList.razor",
-              "ToolTip": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\Pages\\ClintsList.razor",
-              "RelativeToolTip": "MechanicApp.UI\\Pages\\ClintsList.razor",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-19T16:22:34.678Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ClientDetails.razor",
-              "DocumentMoniker": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\Pages\\ClientDetails.razor",
-              "RelativeDocumentMoniker": "MechanicApp.UI\\Pages\\ClientDetails.razor",
-              "ToolTip": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\Pages\\ClientDetails.razor",
-              "RelativeToolTip": "MechanicApp.UI\\Pages\\ClientDetails.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-19T16:20:38.158Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ClientForm.razor",
-              "DocumentMoniker": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\Components\\ClientForm.razor",
-              "RelativeDocumentMoniker": "MechanicApp.UI\\Components\\ClientForm.razor",
-              "ToolTip": "C:\\Users\\Antosz\\Desktop\\MechanicAppSolution\\MechanicApp.UI\\Components\\ClientForm.razor",
-              "RelativeToolTip": "MechanicApp.UI\\Components\\ClientForm.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-19T16:17:02.371Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             }
           ]
         }

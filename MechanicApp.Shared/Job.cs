@@ -10,9 +10,11 @@ namespace MechanicApp.Shared
         public Guid JobId { get; set; }
 
         [Required]
-        public int ClientId { get; set; }
+        [ForeignKey("Client")]
+        public Guid ClientId { get; set; }
 
         [Required]
+        [WhiteSpaceAndNullVerification]
         [NumberPlateVerification]
         public string NumberPlate { get; set; }
 
@@ -33,6 +35,7 @@ namespace MechanicApp.Shared
         public JobCategory Category { get; set; }
 
         [Required]
+        [WhiteSpaceAndNullVerification]
         [MaxLength(500)]
         public string Description { get; set; }
 
@@ -43,7 +46,7 @@ namespace MechanicApp.Shared
         public enum JobStatus
         {
             Assigned,
-            WorkingOn,
+            InProgress,
             Completed
         }
 
@@ -51,9 +54,7 @@ namespace MechanicApp.Shared
         [EnumDataType(typeof(JobStatus))]
         public JobStatus Status { get; set; }
 
-        public string? Summary { get; set; }
-
-        public double WorkhourEstimater()
+        public double workHourEstimater()
         {
             int Category()
             {
@@ -72,7 +73,7 @@ namespace MechanicApp.Shared
             }
 
             double Age()
-            {   
+            {
                 int yearDifference = (DateTime.Now.Date - this.YearOfProduction).Days / 365;
 
                 if (yearDifference < 5)

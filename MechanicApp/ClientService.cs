@@ -54,17 +54,11 @@ namespace MechanicApp
             await _context.SaveChangesAsync();
         }
 
-        /*
-        public async Task<List<Job>> GetJobsOfPerson(Guid clientId)
+        
+        public async Task<List<Job>> GetJobsOfClient(Guid clientId)
         {
-            var client = await Get(clientId);
-
-            return client.Jobs.ToList();
+            return await _context.Jobs.Where(j => j.ClientId == clientId).ToListAsync();
         }
-
-        */
-
-
 
     }
 }

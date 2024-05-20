@@ -55,14 +55,5 @@ namespace MechanicApp
             job.Status = newJob.Status;
             await _context.SaveChangesAsync();
         }
-
-        /*
-        public async Task<List<Client>> GetClientsOfJob(Guid jobId)
-        {
-            var job = await Get(jobId);
-
-            return job.Client.ToList();
-        }
-        */
     }
 }

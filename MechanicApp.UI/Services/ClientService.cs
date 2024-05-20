@@ -36,5 +36,10 @@ namespace MechanicApp.UI.Services
         {
             await _httpClient.PutAsJsonAsync($"/Clients/{id}", client);
         }
+
+        public async Task<IEnumerable<Job>> GetJobsOfClientAsync(Guid clientId)
+        {
+            return await _httpClient.GetFromJsonAsync<IEnumerable<Job>>($"/Clients/{clientId}/jobs");
+        }
     }
 }

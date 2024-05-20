@@ -13,5 +13,7 @@ namespace MechanicApp
         Task<List<Client>> GetAll();
 
         Task Update(Client client);
+
+        Task<List<Job>> GetJobsOfClient(Guid clientId);
     }
 }

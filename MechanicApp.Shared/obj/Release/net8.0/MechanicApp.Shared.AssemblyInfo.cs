@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MechanicApp.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c49bc4e026d70a5d238fa1f5a925c1a5a2e4ea9d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ecc3244b8d0c56eadb9df762baedb2efe8721563")]
 [assembly: System.Reflection.AssemblyProductAttribute("MechanicApp.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MechanicApp.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

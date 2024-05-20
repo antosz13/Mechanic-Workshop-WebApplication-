@@ -1,5 +1,6 @@
 ﻿using MechanicApp.Shared;
 using System.Net.Http.Json;
+using System.Xml.Schema;
 
 namespace MechanicApp.UI.Services
 {
@@ -14,27 +15,27 @@ namespace MechanicApp.UI.Services
 
         public async Task AddJobAsync(Job job)
         {
-            await _httpClient.PostAsJsonAsync("/jobs", job);
+            await _httpClient.PostAsJsonAsync("/Jobs", job);
         }
 
         public async Task DeleteJobAsync(Guid id)
         {
-            await _httpClient.DeleteAsync($"/jobs/{id}");
+            await _httpClient.DeleteAsync($"/Jobs/{id}");
         }
 
         public async Task<Job> GetJobAsync(Guid id)
         {
-            return await _httpClient.GetFromJsonAsync<Job>($"/jobs/{id}");
+            return await _httpClient.GetFromJsonAsync<Job>($"Jobs/{id}");
         }
 
         public async Task<IEnumerable<Job>> GetAllJobAsync()
         {
-            return await _httpClient.GetFromJsonAsync<IEnumerable<Job>>("/jobs");
+            return await _httpClient.GetFromJsonAsync<IEnumerable<Job>>("/Jobs");
         }
 
         public async Task UpdateJobAsync(Guid id, Job job)
         {
-            await _httpClient.PutAsJsonAsync($"/jobs/{id}", job);
+            await _httpClient.PutAsJsonAsync($"/Jobs/{id}", job);
         }
     }
 }

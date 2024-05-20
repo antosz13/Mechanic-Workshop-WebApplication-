@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MechanicApp.UI",
   "resources": {
-    "hash": "sha256-lpHGP/+kgA1Eo1+1uFxHnyLmEQ8OfGRB2MK/Pf8csJA=",
+    "hash": "sha256-c4+0CuVr3VTG4I7vMTE84pKZ9vLghMFAIE23Y6GUXZs=",
     "jsModuleNative": {
       "dotnet.native.8.0.5.ew1vqrwwsw.js": "sha256-boyHe+0RMZDkzBKGhsrnXPhPg3oZ6UqJnTUzngJPjNY="
     },
@@ -208,12 +208,12 @@
       "mscorlib.wasm": "sha256-VCfYgt1mcjITabSTosCDVZ+68ea3Z7kakTFaLNLG+18=",
       "netstandard.wasm": "sha256-YOZxxR9PM3Dltcijfb0Q4FD39DkWZbZ1e2ScbZDvWJ4=",
       "System.Private.CoreLib.wasm": "sha256-NrT1QkAzVU//2wgK9vXdq77lCGvLJ4IOZ+Aegesyanc=",
-      "MechanicApp.Shared.wasm": "sha256-oU8URcZbqYTFpWJDoO47Fmf/Yr+jk/B7ZaJWqUkZ/8o=",
-      "MechanicApp.UI.wasm": "sha256-aKBYP0d1umYjPuA5Gc24y1YusNW83aq5He1OHKpVwqI="
+      "MechanicApp.Shared.wasm": "sha256-g3ioqpKj0+kJhVoJ1GeDpSL5oTT1zj3LQopESJUZ8SY=",
+      "MechanicApp.UI.wasm": "sha256-WDU/D0a5xyRcXNVKl8YPXzYCJT+9vTS1YKaYzMRr4K4="
     },
     "pdb": {
-      "MechanicApp.Shared.pdb": "sha256-hiNbihqdY2d+IxA3fjUOUTe3zt3ZRdTvlEpyNi3ueMo=",
-      "MechanicApp.UI.pdb": "sha256-2kRf/w6yVs3QyQxhfSSjsjZbxWplbQgrXymNOPHeERI="
+      "MechanicApp.Shared.pdb": "sha256-fRDPZjBtIg+IKUAnPgAbWy5IeIX9sgobksN8swjyVL8=",
+      "MechanicApp.UI.pdb": "sha256-p4qetNDcQ7taBp+ZTfSnQToWCt4FMoljNo1/8s7AAxw="
     }
   },
   "cacheBootResources": true,

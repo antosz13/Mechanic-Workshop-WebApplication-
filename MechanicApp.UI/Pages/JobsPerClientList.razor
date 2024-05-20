@@ -1,5 +1,59 @@
-﻿<h3>JobsPerClientList</h3>
+﻿@page "/client/{clientId:guid}/jobs"
+@using MechanicApp.Shared
+@using MechanicApp.UI.Services
+@inject IClientService ClientService
+
+<h3>JobsPerClientList</h3>
+
+@if(Jobs is null)
+{
+    <p>Loading..</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+        <tr>
+            <th>Job ID</th>
+            <th>Number Plate</th>
+            <th>Year Of Production</th>
+            <th>Status</th>
+            <th>Category</th>
+            <th>Description</th>
+            <th>Seriousness</th>
+            <th>Status</th>
+            <th>Workhour Estimation</th>
+        </tr>
+        </thead>
+        <tbody>
+
+        @foreach (var job in Jobs)
+        {
+            <tr>
+                <td>@job.JobId</td>
+                <td>@job.NumberPlate</td>
+                <td>@job.YearOfProduction</td>
+                <td>@job.Status</td>
+                <td>@job.Category</td>
+                <td>@job.Description</td>
+                <td>@job.Seriousness</td>
+                <td>@job.Status</td>
+                <td><a href="/job/@job.JobId" class="btn btn-primary">Details</a></td>
+            </tr>
+        }
+        </tbody>
+    </table>
+}
 
 @code {
 
+    [Parameter]
+    public Guid ClientId { get; set; }
+
+    private IEnumerable<Job>? Jobs { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        Jobs = await ClientService.GetJobsOfClientAsync(ClientId);
+    }
 }

@@ -10,13 +10,16 @@ namespace MechanicApp.Shared
         public Guid ClientId { get; set; }
 
         [Required]
+        [WhiteSpaceAndNullVerification]
         [MaxLength(15)]
         public string Name { get; set; }
 
         [Required]
+        [WhiteSpaceAndNullVerification]
         public string Address { get; set; }
 
         [Required]
+        [WhiteSpaceAndNullVerification]
         [EmailAddress]
         [MaxLength(50)]
         public string Email { get; set; }
