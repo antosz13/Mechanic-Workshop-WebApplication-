@@ -1,6 +1,5 @@
 ﻿using MechanicApp.Shared;
 using System.Net.Http.Json;
-using System.Xml.Schema;
 
 namespace MechanicApp.UI.Services
 {

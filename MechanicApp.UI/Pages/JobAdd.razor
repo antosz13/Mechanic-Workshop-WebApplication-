@@ -3,7 +3,6 @@
 @using MechanicApp.UI.Services
 @using MechanicApp.UI.Components
 @inject IJobService JobService
-@inject IClientService ClientService
 @inject NavigationManager NavigationManager
 
 <h3>Job Creater</h3>
@@ -15,21 +14,6 @@
 
     private async Task AddJobAsync()
     {
-
-        //Job.Client = await ClientService.GetClientAsync(Job.ClientId);
-
-        //await ClientService.UpdateClientAsync(Job.ClientId, Job.Client);
-
-        await using (var sw = new StreamWriter("logabc.txt"))
-        {
-            var ci = Job.ClientId;
-            var de = Job.Description;
-            var np = Job.NumberPlate;
-            var yp = Job.YearOfProduction;
-            var st = Job.Status;
-            var ca = Job.Category;
-            var se = Job.Seriousness;
-        };
         await JobService.AddJobAsync(Job);
         NavigationManager.NavigateTo("/job/list");
     }

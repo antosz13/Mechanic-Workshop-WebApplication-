@@ -14,15 +14,14 @@ else
     <table class="table">
         <thead>
         <tr>
-            <th>Job ID</th>
             <th>Number Plate</th>
-            <th>Year Of Production</th>
-            <th>Status</th>
+            <th>Date Of Production</th>
             <th>Category</th>
             <th>Description</th>
             <th>Seriousness</th>
             <th>Status</th>
             <th>Workhour Estimation</th>
+            <th>Details</th>
         </tr>
         </thead>
         <tbody>
@@ -30,14 +29,13 @@ else
         @foreach (var job in Jobs)
         {
             <tr>
-                <td>@job.JobId</td>
                 <td>@job.NumberPlate</td>
-                <td>@job.YearOfProduction</td>
-                <td>@job.Status</td>
+                <td>@job.YearOfProduction.Year / @job.YearOfProduction.Month / @job.YearOfProduction.Day</td>
                 <td>@job.Category</td>
                 <td>@job.Description</td>
                 <td>@job.Seriousness</td>
                 <td>@job.Status</td>
+                    <td>@Math.Round(job.workHourEstimater(), 2).</td>
                 <td><a href="/job/@job.JobId" class="btn btn-primary">Details</a></td>
             </tr>
         }

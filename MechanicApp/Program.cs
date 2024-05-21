@@ -17,7 +17,6 @@ namespace MechanicApp
                             .WriteTo.File("log.txt"));
 
             builder.Services.AddControllers();
-            // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
@@ -30,10 +29,8 @@ namespace MechanicApp
             builder.Services.AddSingleton<IClientService, ClientService>();
             builder.Services.AddSingleton<IJobService, JobService>();
 
-
             var app = builder.Build();
 
-            // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
             {
                 app.UseSwagger();
@@ -45,7 +42,6 @@ namespace MechanicApp
             app.UseHttpsRedirection();
 
             app.UseAuthorization();
-
 
             app.MapControllers();
 

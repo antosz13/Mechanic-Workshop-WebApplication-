@@ -23,7 +23,7 @@ namespace MechanicApp.Shared
                 !char.IsUpper(numberPlate[0]) || !char.IsUpper(numberPlate[1]) || !char.IsUpper(numberPlate[2]) ||
                 !char.IsDigit(numberPlate[4]) || !char.IsDigit(numberPlate[5]) || !char.IsDigit(numberPlate[6]))
             {
-                return new ValidationResult("Number plate must have 3 letters, a dash, and 3 digits.");
+                return new ValidationResult("Number plate must have 3 capital letters, a dash, and 3 digits.");
             }
             return ValidationResult.Success;
         }

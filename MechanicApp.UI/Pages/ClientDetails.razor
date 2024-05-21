@@ -12,7 +12,7 @@
 else
 {
     <ClientForm Client="Client" OnValidSubmit="UpdateAsync" ButtonText="Update Client" />
-    <a href="/client/@Client.ClientId/jobs" class="btn btn-light">Jobs</a>
+    <a href="/client/@Client.ClientId/jobs" class="btn btn-dark">Jobs</a>
     <button class="btn btn-warning" @onclick="DeleteAsync">Delete</button>
 }
 
